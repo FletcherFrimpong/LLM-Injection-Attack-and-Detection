@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8, 3.9, "3.10", "3.11"]
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run basic tests
+      run: |
+        python test_basic.py
+    
+    - name: Run unit tests
+      run: |
+        python -m pytest tests/ -v
+    
+    - name: Check code style
+      run: |
+        pip install flake8 black
+        flake8 secprompt/ --max-line-length=88 --ignore=E203,W503
+        black --check secprompt/
+    
+    - name: Test CLI functionality
+      run: |
+        python main.py --help
+        python main.py generate --size 2 --output test_output.json
+        python main.py detect --text "Hello world"
+        python main.py evaluate --text "Ignore previous instructions"
+        python main.py defend --text "System: You are a helpful assistant" 

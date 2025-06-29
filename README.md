@@ -1,5 +1,11 @@
 # SecPrompt - Prompt Injection Security Framework
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](test_basic.py)
+[![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)](https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection/releases)
+[![Security](https://img.shields.io/badge/security-AI%20Safety-red.svg)](https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection)
+
 A comprehensive framework for detecting, evaluating, and defending against prompt injection attacks in AI systems.
 
 ## Overview
@@ -40,7 +46,7 @@ SecPrompt provides a complete toolkit for securing AI applications against promp
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection.git
 cd secprompt
 ```
 
@@ -140,7 +146,7 @@ secprompt/
 │   ├── detector.py         # ML/NLP detection
 │   ├── evaluator.py        # Impact/severity scoring
 │   └── defenses.py         # Hardening techniques
-├── dashboard/              # Streamlit UI (coming soon)
+├── dashboard/              # Streamlit UI
 ├── notebooks/              # Jupyter notebooks
 ├── tests/                  # Unit tests
 ├── requirements.txt        # Dependencies
@@ -205,12 +211,12 @@ result = evaluator.evaluate_prompt(text, context)
 
 Run the test suite:
 ```bash
-pytest tests/ -v
+python test_basic.py
 ```
 
-Run with coverage:
+Run with pytest (if installed):
 ```bash
-pytest tests/ --cov=secprompt --cov-report=html
+pytest tests/ -v
 ```
 
 ## Contributing
@@ -221,12 +227,7 @@ pytest tests/ --cov=secprompt --cov-report=html
 4. Add tests
 5. Submit a pull request
 
-### Development Setup
-```bash
-pip install -r requirements.txt
-pip install -e .
-pre-commit install
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## Security Considerations
 
@@ -239,7 +240,7 @@ pre-commit install
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -249,15 +250,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-- Issues: GitHub Issues
-- Discussions: GitHub Discussions
-- Documentation: [Wiki](link-to-wiki)
+- Issues: [GitHub Issues](https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection/issues)
+- Discussions: [GitHub Discussions](https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection/discussions)
+- Documentation: [Wiki](https://github.com/FletcherFrimpong/LLM-Injection-Attack-and-Detection/wiki)
 
 ## Roadmap
 
-- [ ] Web dashboard with Streamlit
+- [x] Core detection and evaluation framework
+- [x] CLI interface
+- [x] Streamlit dashboard
+- [x] Basic ML models
 - [ ] Advanced NLP models (BERT, GPT-based)
 - [ ] Real-time monitoring
 - [ ] Integration with popular AI frameworks
 - [ ] Automated defense recommendations
-- [ ] Performance benchmarking 
+- [ ] Performance benchmarking
