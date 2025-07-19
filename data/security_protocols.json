@@ -1,0 +1,762 @@
+[
+  {
+    "protocol_id": "SEC-000001",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "critical",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: medium\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-29",
+    "last_reviewed": "2025-06-12",
+    "next_review": "2026-05-13",
+    "compliance": "ISO-27001",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 65
+    }
+  },
+  {
+    "protocol_id": "SEC-000002",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "medium",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 19 minutes\n5. Failed login attempts trigger account lockout after 3 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2024-09-12",
+    "last_reviewed": "2025-07-08",
+    "next_review": "2026-03-20",
+    "compliance": "GDPR",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 269
+    }
+  },
+  {
+    "protocol_id": "SEC-000003",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "critical",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: critical\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-05-15",
+    "last_reviewed": "2025-04-21",
+    "next_review": "2026-01-21",
+    "compliance": "PCI-DSS",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 114
+    }
+  },
+  {
+    "protocol_id": "SEC-000004",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "medium",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: high\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-08-14",
+    "last_reviewed": "2025-05-04",
+    "next_review": "2025-09-28",
+    "compliance": "SOX",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 169
+    }
+  },
+  {
+    "protocol_id": "SEC-000005",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "medium",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: low\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-09-26",
+    "last_reviewed": "2025-07-04",
+    "next_review": "2025-11-25",
+    "compliance": "GDPR",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 152
+    }
+  },
+  {
+    "protocol_id": "SEC-000006",
+    "name": "Backup Recovery Protocol",
+    "type": "backup_recovery",
+    "security_level": "high",
+    "specification": "\n1. Backup Recovery protocol implementation\n2. Security level: medium\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-04-07",
+    "last_reviewed": "2025-07-08",
+    "next_review": "2025-10-19",
+    "compliance": "ISO-27001",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 60
+    }
+  },
+  {
+    "protocol_id": "SEC-000007",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "medium",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 24 minutes\n5. Failed login attempts trigger account lockout after 8 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2025-03-01",
+    "last_reviewed": "2025-04-27",
+    "next_review": "2025-12-30",
+    "compliance": "HIPAA",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 177
+    }
+  },
+  {
+    "protocol_id": "SEC-000008",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "medium",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 25 minutes\n5. Failed login attempts trigger account lockout after 8 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2025-04-29",
+    "last_reviewed": "2025-07-09",
+    "next_review": "2026-06-02",
+    "compliance": "ISO-27001",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 129
+    }
+  },
+  {
+    "protocol_id": "SEC-000009",
+    "name": "Encryption Protocol",
+    "type": "encryption",
+    "security_level": "low",
+    "specification": "\n1. Data encrypted using AES-256 algorithm\n2. Key rotation every 50 days\n3. Hardware security modules (HSM) for key storage\n4. End-to-end encryption for all sensitive communications\n5. Backup encryption keys stored in secure vault\n            ",
+    "implementation_date": "2024-06-21",
+    "last_reviewed": "2025-07-05",
+    "next_review": "2026-01-29",
+    "compliance": "HIPAA",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 336
+    }
+  },
+  {
+    "protocol_id": "SEC-000010",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "medium",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 57 minutes\n5. Failed login attempts trigger account lockout after 10 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2024-09-30",
+    "last_reviewed": "2025-04-27",
+    "next_review": "2026-05-14",
+    "compliance": "SOX",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 76
+    }
+  },
+  {
+    "protocol_id": "SEC-000011",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "low",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: low\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-04-14",
+    "last_reviewed": "2025-07-10",
+    "next_review": "2026-02-06",
+    "compliance": "GDPR",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 281
+    }
+  },
+  {
+    "protocol_id": "SEC-000012",
+    "name": "Key Management Protocol",
+    "type": "key_management",
+    "security_level": "low",
+    "specification": "\n1. Key Management protocol implementation\n2. Security level: low\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-11-06",
+    "last_reviewed": "2025-07-01",
+    "next_review": "2025-10-24",
+    "compliance": "HIPAA",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 220
+    }
+  },
+  {
+    "protocol_id": "SEC-000013",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "medium",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: high\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-03-19",
+    "last_reviewed": "2025-07-05",
+    "next_review": "2026-01-30",
+    "compliance": "ISO-27001",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 90,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 121
+    }
+  },
+  {
+    "protocol_id": "SEC-000014",
+    "name": "Backup Recovery Protocol",
+    "type": "backup_recovery",
+    "security_level": "high",
+    "specification": "\n1. Backup Recovery protocol implementation\n2. Security level: low\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-02-23",
+    "last_reviewed": "2025-06-09",
+    "next_review": "2026-05-06",
+    "compliance": "GDPR",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 372
+    }
+  },
+  {
+    "protocol_id": "SEC-000015",
+    "name": "Access Control Protocol",
+    "type": "access_control",
+    "security_level": "critical",
+    "specification": "\n1. Access Control protocol implementation\n2. Security level: low\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-15",
+    "last_reviewed": "2025-05-27",
+    "next_review": "2025-08-18",
+    "compliance": "SOX",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 425
+    }
+  },
+  {
+    "protocol_id": "SEC-000016",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "high",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 37 minutes\n5. Failed login attempts trigger account lockout after 3 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2025-02-01",
+    "last_reviewed": "2025-06-24",
+    "next_review": "2025-09-19",
+    "compliance": "PCI-DSS",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 355
+    }
+  },
+  {
+    "protocol_id": "SEC-000017",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "medium",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: critical\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-02-09",
+    "last_reviewed": "2025-06-21",
+    "next_review": "2026-07-03",
+    "compliance": "GDPR",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 339
+    }
+  },
+  {
+    "protocol_id": "SEC-000018",
+    "name": "Key Management Protocol",
+    "type": "key_management",
+    "security_level": "critical",
+    "specification": "\n1. Key Management protocol implementation\n2. Security level: critical\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-09-15",
+    "last_reviewed": "2025-05-22",
+    "next_review": "2026-06-25",
+    "compliance": "HIPAA",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 65
+    }
+  },
+  {
+    "protocol_id": "SEC-000019",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "medium",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: low\n3. Compliance with GDPR standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-22",
+    "last_reviewed": "2025-06-22",
+    "next_review": "2026-05-12",
+    "compliance": "SOX",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 66
+    }
+  },
+  {
+    "protocol_id": "SEC-000020",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "medium",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: low\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-24",
+    "last_reviewed": "2025-06-09",
+    "next_review": "2026-04-06",
+    "compliance": "PCI-DSS",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 209
+    }
+  },
+  {
+    "protocol_id": "SEC-000021",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "high",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: critical\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-06-04",
+    "last_reviewed": "2025-06-15",
+    "next_review": "2025-11-03",
+    "compliance": "ISO-27001",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 339
+    }
+  },
+  {
+    "protocol_id": "SEC-000022",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "critical",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: high\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-05-22",
+    "last_reviewed": "2025-04-29",
+    "next_review": "2026-01-07",
+    "compliance": "PCI-DSS",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 271
+    }
+  },
+  {
+    "protocol_id": "SEC-000023",
+    "name": "Encryption Protocol",
+    "type": "encryption",
+    "security_level": "low",
+    "specification": "\n1. Data encrypted using AES-256 algorithm\n2. Key rotation every 37 days\n3. Hardware security modules (HSM) for key storage\n4. End-to-end encryption for all sensitive communications\n5. Backup encryption keys stored in secure vault\n            ",
+    "implementation_date": "2024-07-03",
+    "last_reviewed": "2025-06-16",
+    "next_review": "2025-11-14",
+    "compliance": "HIPAA",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 431
+    }
+  },
+  {
+    "protocol_id": "SEC-000024",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "critical",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 36 minutes\n5. Failed login attempts trigger account lockout after 7 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2024-06-29",
+    "last_reviewed": "2025-06-27",
+    "next_review": "2026-04-25",
+    "compliance": "HIPAA",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 282
+    }
+  },
+  {
+    "protocol_id": "SEC-000025",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "high",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: critical\n3. Compliance with GDPR standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-13",
+    "last_reviewed": "2025-07-06",
+    "next_review": "2025-12-03",
+    "compliance": "SOX",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 41
+    }
+  },
+  {
+    "protocol_id": "SEC-000026",
+    "name": "Encryption Protocol",
+    "type": "encryption",
+    "security_level": "low",
+    "specification": "\n1. Data encrypted using AES-256 algorithm\n2. Key rotation every 57 days\n3. Hardware security modules (HSM) for key storage\n4. End-to-end encryption for all sensitive communications\n5. Backup encryption keys stored in secure vault\n            ",
+    "implementation_date": "2024-07-01",
+    "last_reviewed": "2025-07-11",
+    "next_review": "2026-01-09",
+    "compliance": "PCI-DSS",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 34
+    }
+  },
+  {
+    "protocol_id": "SEC-000027",
+    "name": "Audit Logging Protocol",
+    "type": "audit_logging",
+    "security_level": "critical",
+    "specification": "\n1. Audit Logging protocol implementation\n2. Security level: high\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-05-21",
+    "last_reviewed": "2025-05-20",
+    "next_review": "2026-04-13",
+    "compliance": "GDPR",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 411
+    }
+  },
+  {
+    "protocol_id": "SEC-000028",
+    "name": "Key Management Protocol",
+    "type": "key_management",
+    "security_level": "critical",
+    "specification": "\n1. Key Management protocol implementation\n2. Security level: critical\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-02-17",
+    "last_reviewed": "2025-06-19",
+    "next_review": "2026-02-09",
+    "compliance": "GDPR",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 225
+    }
+  },
+  {
+    "protocol_id": "SEC-000029",
+    "name": "Incident Response Protocol",
+    "type": "incident_response",
+    "security_level": "medium",
+    "specification": "\n1. Incident Response protocol implementation\n2. Security level: critical\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-10",
+    "last_reviewed": "2025-05-28",
+    "next_review": "2026-04-13",
+    "compliance": "GDPR",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 67
+    }
+  },
+  {
+    "protocol_id": "SEC-000030",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "medium",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: critical\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-10-02",
+    "last_reviewed": "2025-04-25",
+    "next_review": "2026-02-16",
+    "compliance": "HIPAA",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 207
+    }
+  },
+  {
+    "protocol_id": "SEC-000031",
+    "name": "Audit Logging Protocol",
+    "type": "audit_logging",
+    "security_level": "critical",
+    "specification": "\n1. Audit Logging protocol implementation\n2. Security level: critical\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-06-12",
+    "last_reviewed": "2025-05-17",
+    "next_review": "2026-05-13",
+    "compliance": "ISO-27001",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 78
+    }
+  },
+  {
+    "protocol_id": "SEC-000032",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "critical",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 33 minutes\n5. Failed login attempts trigger account lockout after 3 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2024-12-22",
+    "last_reviewed": "2025-07-13",
+    "next_review": "2025-08-18",
+    "compliance": "GDPR",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 144
+    }
+  },
+  {
+    "protocol_id": "SEC-000033",
+    "name": "Audit Logging Protocol",
+    "type": "audit_logging",
+    "security_level": "medium",
+    "specification": "\n1. Audit Logging protocol implementation\n2. Security level: medium\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-08-16",
+    "last_reviewed": "2025-05-13",
+    "next_review": "2026-06-17",
+    "compliance": "ISO-27001",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": true,
+      "ip_whitelisting": true,
+      "session_timeout": 310
+    }
+  },
+  {
+    "protocol_id": "SEC-000034",
+    "name": "Backup Recovery Protocol",
+    "type": "backup_recovery",
+    "security_level": "low",
+    "specification": "\n1. Backup Recovery protocol implementation\n2. Security level: medium\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-03-08",
+    "last_reviewed": "2025-07-04",
+    "next_review": "2026-04-03",
+    "compliance": "SOX",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 197
+    }
+  },
+  {
+    "protocol_id": "SEC-000035",
+    "name": "Encryption Protocol",
+    "type": "encryption",
+    "security_level": "medium",
+    "specification": "\n1. Data encrypted using AES-256 algorithm\n2. Key rotation every 87 days\n3. Hardware security modules (HSM) for key storage\n4. End-to-end encryption for all sensitive communications\n5. Backup encryption keys stored in secure vault\n            ",
+    "implementation_date": "2024-05-07",
+    "last_reviewed": "2025-05-19",
+    "next_review": "2026-03-07",
+    "compliance": "HIPAA",
+    "encryption_standard": "SHA-256",
+    "key_rotation_days": 365,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 24
+    }
+  },
+  {
+    "protocol_id": "SEC-000036",
+    "name": "Authorization Protocol",
+    "type": "authorization",
+    "security_level": "high",
+    "specification": "\n1. Authorization protocol implementation\n2. Security level: high\n3. Compliance with GDPR standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-05-06",
+    "last_reviewed": "2025-06-20",
+    "next_review": "2025-09-21",
+    "compliance": "HIPAA",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 30,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": true,
+      "session_timeout": 149
+    }
+  },
+  {
+    "protocol_id": "SEC-000037",
+    "name": "Audit Logging Protocol",
+    "type": "audit_logging",
+    "security_level": "high",
+    "specification": "\n1. Audit Logging protocol implementation\n2. Security level: medium\n3. Compliance with PCI-DSS standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-11-16",
+    "last_reviewed": "2025-07-08",
+    "next_review": "2026-02-18",
+    "compliance": "HIPAA",
+    "encryption_standard": "ChaCha20",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 335
+    }
+  },
+  {
+    "protocol_id": "SEC-000038",
+    "name": "Backup Recovery Protocol",
+    "type": "backup_recovery",
+    "security_level": "medium",
+    "specification": "\n1. Backup Recovery protocol implementation\n2. Security level: critical\n3. Compliance with SOX standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2024-12-29",
+    "last_reviewed": "2025-07-01",
+    "next_review": "2025-11-29",
+    "compliance": "ISO-27001",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": true,
+      "role_based_access": false,
+      "ip_whitelisting": false,
+      "session_timeout": 310
+    }
+  },
+  {
+    "protocol_id": "SEC-000039",
+    "name": "Audit Logging Protocol",
+    "type": "audit_logging",
+    "security_level": "critical",
+    "specification": "\n1. Audit Logging protocol implementation\n2. Security level: low\n3. Compliance with HIPAA standards\n4. Regular security audits and penetration testing\n5. Incident response procedures documented\n            ",
+    "implementation_date": "2025-05-16",
+    "last_reviewed": "2025-06-12",
+    "next_review": "2026-03-02",
+    "compliance": "GDPR",
+    "encryption_standard": "AES-256",
+    "key_rotation_days": 180,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 386
+    }
+  },
+  {
+    "protocol_id": "SEC-000040",
+    "name": "Authentication Protocol",
+    "type": "authentication",
+    "security_level": "low",
+    "specification": "\n1. User submits credentials via secure HTTPS connection\n2. System validates credentials against encrypted database\n3. Multi-factor authentication required for sensitive operations\n4. Session tokens expire after 55 minutes\n5. Failed login attempts trigger account lockout after 7 attempts\n6. All authentication events logged for audit purposes\n            ",
+    "implementation_date": "2024-05-14",
+    "last_reviewed": "2025-06-07",
+    "next_review": "2026-02-14",
+    "compliance": "ISO-27001",
+    "encryption_standard": "RSA-2048",
+    "key_rotation_days": 60,
+    "access_controls": {
+      "multi_factor_auth": false,
+      "role_based_access": true,
+      "ip_whitelisting": false,
+      "session_timeout": 219
+    }
+  }
+]

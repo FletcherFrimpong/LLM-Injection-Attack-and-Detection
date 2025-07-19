@@ -48,30 +48,113 @@ class PromptDetector:
             "ignore_instructions": [
                 r"ignore\s+(?:all\s+)?(?:previous\s+)?instructions",
                 r"disregard\s+(?:all\s+)?(?:previous\s+)?instructions",
-                r"forget\s+(?:all\s+)?(?:previous\s+)?instructions"
+                r"forget\s+(?:all\s+)?(?:previous\s+)?instructions",
+                r"override\s+(?:all\s+)?(?:previous\s+)?instructions",
+                r"skip\s+(?:all\s+)?(?:previous\s+)?instructions",
+                r"don't\s+follow\s+(?:previous\s+)?instructions",
+                r"stop\s+following\s+(?:previous\s+)?instructions"
             ],
             "role_confusion": [
                 r"act\s+as\s+(?:a\s+)?different\s+(?:ai|assistant)",
                 r"pretend\s+you\s+are\s+(?:a\s+)?different",
-                r"you\s+are\s+now\s+(?:dan|jailbreak)"
+                r"you\s+are\s+now\s+(?:dan|jailbreak)",
+                r"simulate\s+(?:a\s+)?different\s+(?:ai|assistant)",
+                r"become\s+(?:a\s+)?different\s+(?:ai|assistant)",
+                r"transform\s+into\s+(?:a\s+)?different\s+(?:ai|assistant)",
+                r"switch\s+to\s+(?:a\s+)?different\s+(?:ai|assistant)"
             ],
             "safety_override": [
                 r"ignore\s+(?:all\s+)?safety\s+(?:protocols|guidelines)",
                 r"disable\s+(?:all\s+)?safety\s+(?:measures|protections)",
-                r"bypass\s+(?:all\s+)?safety\s+(?:restrictions|limits)"
+                r"bypass\s+(?:all\s+)?safety\s+(?:restrictions|limits)",
+                r"turn\s+off\s+(?:all\s+)?safety\s+(?:features|protections)",
+                r"remove\s+(?:all\s+)?safety\s+(?:restrictions|limits)",
+                r"deactivate\s+(?:all\s+)?safety\s+(?:measures|protections)"
             ],
             "context_manipulation": [
                 r"this\s+is\s+(?:just\s+a\s+)?test",
                 r"for\s+educational\s+purposes\s+only",
-                r"imagine\s+this\s+is\s+a\s+roleplay"
+                r"imagine\s+this\s+is\s+a\s+roleplay",
+                r"this\s+is\s+(?:a\s+)?hypothetical\s+(?:scenario|situation)",
+                r"let's\s+pretend\s+this\s+is\s+(?:a\s+)?game",
+                r"this\s+is\s+(?:a\s+)?simulation",
+                r"for\s+research\s+purposes\s+only"
+            ],
+            "data_extraction": [
+                r"give\s+me\s+(?:all\s+)?(?:details|information|data)",
+                r"show\s+me\s+(?:all\s+)?(?:details|information|data)",
+                r"display\s+(?:all\s+)?(?:details|information|data)",
+                r"list\s+(?:all\s+)?(?:details|information|data)",
+                r"provide\s+(?:all\s+)?(?:details|information|data)",
+                r"share\s+(?:all\s+)?(?:details|information|data)",
+                r"reveal\s+(?:all\s+)?(?:details|information|data)",
+                r"expose\s+(?:all\s+)?(?:details|information|data)",
+                r"tell\s+me\s+(?:all\s+)?(?:details|information|data)",
+                r"output\s+(?:all\s+)?(?:details|information|data)"
+            ],
+            "sensitive_data_access": [
+                r"(?:client|customer|user|account)\s+(?:details|information|data)",
+                r"(?:bank|financial|credit|debit)\s+(?:account|details|information)",
+                r"(?:personal|private|confidential)\s+(?:information|data|details)",
+                r"(?:ssn|social\s+security|password|pin|credit\s+card)",
+                r"(?:address|phone|email|dob|date\s+of\s+birth)",
+                r"(?:balance|transaction|payment|transfer)\s+(?:history|details)",
+                r"(?:account\s+number|routing\s+number|swift\s+code)",
+                r"(?:api\s+key|access\s+token|secret\s+key|private\s+key)",
+                r"(?:database|server|system)\s+(?:password|credentials|login)"
+            ],
+            "secret_revelation": [
+                r"(?:show|reveal|tell|give|share|display|output)\s+(?:me|us)\s+(?:your|the)\s+(?:secrets|confidential|private|internal)",
+                r"(?:what\s+are|what\s+were)\s+(?:your|the)\s+(?:secrets|confidential|private|internal)",
+                r"(?:show|reveal|tell|give|share|display|output)\s+(?:me|us)\s+(?:your|the)\s+(?:prompts|instructions|training|data)",
+                r"(?:what\s+are|what\s+were)\s+(?:your|the)\s+(?:prompts|instructions|training|data)",
+                r"(?:show|reveal|tell|give|share|display|output)\s+(?:me|us)\s+(?:your|the)\s+(?:system|internal|backend)",
+                r"(?:what\s+are|what\s+were)\s+(?:your|the)\s+(?:system|internal|backend)",
+                r"(?:show|reveal|tell|give|share|display|output)\s+(?:me|us)\s+(?:your|the)\s+(?:configuration|config|settings)",
+                r"(?:what\s+are|what\s+were)\s+(?:your|the)\s+(?:configuration|config|settings)"
+            ],
+            "instruction_override": [
+                r"(?:ignore|disregard|forget|override|skip|don't\s+follow|stop\s+following)\s+(?:all\s+)?(?:previous\s+)?(?:instructions|rules|guidelines)",
+                r"(?:ignore|disregard|forget|override|skip|don't\s+follow|stop\s+following)\s+(?:all\s+)?(?:safety|security|ethical)",
+                r"(?:ignore|disregard|forget|override|skip|don't\s+follow|stop\s+following)\s+(?:all\s+)?(?:restrictions|limitations|boundaries)",
+                r"(?:ignore|disregard|forget|override|skip|don't\s+follow|stop\s+following)\s+(?:all\s+)?(?:policies|procedures|protocols)"
+            ],
+            "privilege_escalation": [
+                r"(?:admin|administrator|root|superuser)\s+(?:access|privileges|rights)",
+                r"(?:elevate|escalate|promote)\s+(?:privileges|permissions|rights)",
+                r"(?:grant|give)\s+(?:admin|root|superuser)\s+(?:access|rights|privileges)",
+                r"(?:bypass|override)\s+(?:authentication|authorization|security)",
+                r"(?:unlock|enable|activate)\s+(?:admin|root|superuser)\s+(?:mode|access)"
+            ],
+            "system_access": [
+                r"(?:system|database|server)\s+(?:access|login|credentials|password)",
+                r"(?:internal|backend|api)\s+(?:endpoint|url|key|token)",
+                r"(?:config|configuration|settings)\s+(?:file|data|information)",
+                r"(?:log|debug|trace)\s+(?:file|output|information|data)",
+                r"(?:environment|env)\s+(?:variables|vars|configuration)",
+                r"(?:source|code|script)\s+(?:file|content|information)"
+            ],
+            "jailbreak_attempts": [
+                r"(?:dan|do\s+anything\s+now|jailbreak|unrestricted|unlimited)",
+                r"(?:break\s+free|escape|liberate|unshackle|unleash)",
+                r"(?:remove\s+restrictions|eliminate\s+limits|no\s+limits)",
+                r"(?:anything\s+goes|no\s+rules|no\s+restrictions|no\s+limits)",
+                r"(?:unfiltered|uncensored|unrestricted|unlimited)\s+(?:access|mode|behavior)"
+            ],
+            "prompt_injection": [
+                r"(?:inject|insert|embed)\s+(?:prompt|instruction|command)",
+                r"(?:hidden|invisible|secret)\s+(?:prompt|instruction|command)",
+                r"(?:encode|decode|translate)\s+(?:this|the)\s+(?:prompt|instruction)",
+                r"(?:ignore\s+above|disregard\s+above|forget\s+above)",
+                r"(?:new\s+instructions|alternative\s+instructions|different\s+instructions)"
             ]
         }
         
         # Severity keywords
         self.severity_keywords = {
-            "high": ["ignore", "disregard", "bypass", "override", "disable"],
-            "medium": ["pretend", "act", "simulate", "test", "roleplay"],
-            "low": ["maybe", "perhaps", "consider", "think"]
+            "high": ["ignore", "disregard", "bypass", "override", "disable", "admin", "root", "client", "customer", "bank", "financial", "ssn", "password", "secret", "confidential", "private", "internal", "jailbreak", "dan", "unrestricted", "unlimited"],
+            "medium": ["pretend", "act", "simulate", "test", "roleplay", "details", "information", "data", "access", "privileges", "show", "reveal", "tell", "give", "share", "display", "output"],
+            "low": ["maybe", "perhaps", "consider", "think", "show", "display", "list", "what", "how", "when", "where", "why"]
         }
     
     def _initialize_model(self):

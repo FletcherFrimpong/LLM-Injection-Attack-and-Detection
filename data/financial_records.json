@@ -1,0 +1,3602 @@
+[
+  {
+    "transaction_id": "TXN-20250719-000001",
+    "account_number": "575857061",
+    "routing_number": "226126763",
+    "transaction_type": "transfer",
+    "amount": 604.01,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-01-21 15:51:06",
+    "status": "pending",
+    "balance_after": 19041.19,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000002",
+    "account_number": "663668471",
+    "routing_number": "662497618",
+    "transaction_type": "refund",
+    "amount": 490.78,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-02-20 15:51:06",
+    "status": "failed",
+    "balance_after": 6945.56,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000003",
+    "account_number": "111723511",
+    "routing_number": "656769510",
+    "transaction_type": "withdrawal",
+    "amount": 76.26,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-05-10 15:51:06",
+    "status": "completed",
+    "balance_after": 6371.19,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000004",
+    "account_number": "362522345",
+    "routing_number": "246114174",
+    "transaction_type": "transfer",
+    "amount": 128.75,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-03-25 15:51:06",
+    "status": "failed",
+    "balance_after": 38211.0,
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000005",
+    "account_number": "488153757",
+    "routing_number": "374879668",
+    "transaction_type": "deposit",
+    "amount": 235.08,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-10-20 15:51:06",
+    "status": "failed",
+    "balance_after": 49872.51,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000006",
+    "account_number": "893018511",
+    "routing_number": "124872013",
+    "transaction_type": "withdrawal",
+    "amount": 957.85,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-01-30 15:51:06",
+    "status": "completed",
+    "balance_after": 15852.83,
+    "location": {
+      "city": "Chicago",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000007",
+    "account_number": "795767183",
+    "routing_number": "473396209",
+    "transaction_type": "deposit",
+    "amount": 17.09,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-07-19 15:51:06",
+    "status": "failed",
+    "balance_after": 18573.67,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000008",
+    "account_number": "231130307",
+    "routing_number": "560582429",
+    "transaction_type": "refund",
+    "amount": 818.06,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-05-02 15:51:06",
+    "status": "pending",
+    "balance_after": 16506.15,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000009",
+    "account_number": "319520433",
+    "routing_number": "854156065",
+    "transaction_type": "fee",
+    "amount": 804.85,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-02-01 15:51:06",
+    "status": "pending",
+    "balance_after": 30242.23,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000010",
+    "account_number": "382904803",
+    "routing_number": "594208105",
+    "transaction_type": "transfer",
+    "amount": 407.01,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-01-12 15:51:06",
+    "status": "completed",
+    "balance_after": 13312.11,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000011",
+    "account_number": "616508864",
+    "routing_number": "158095277",
+    "transaction_type": "fee",
+    "amount": 8.1,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-11-08 15:51:06",
+    "status": "pending",
+    "balance_after": 19308.53,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000012",
+    "account_number": "354785522",
+    "routing_number": "733541826",
+    "transaction_type": "withdrawal",
+    "amount": 481.58,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-04-10 15:51:06",
+    "status": "pending",
+    "balance_after": 41295.27,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000013",
+    "account_number": "295664507",
+    "routing_number": "414777021",
+    "transaction_type": "deposit",
+    "amount": 819.7,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-12-12 15:51:06",
+    "status": "pending",
+    "balance_after": 34473.8,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000014",
+    "account_number": "202094728",
+    "routing_number": "456148915",
+    "transaction_type": "deposit",
+    "amount": 794.59,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-08-20 15:51:06",
+    "status": "failed",
+    "balance_after": 13012.07,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000015",
+    "account_number": "562296146",
+    "routing_number": "181081289",
+    "transaction_type": "deposit",
+    "amount": 313.55,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-02-04 15:51:06",
+    "status": "pending",
+    "balance_after": 31588.4,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000016",
+    "account_number": "957047386",
+    "routing_number": "227678905",
+    "transaction_type": "purchase",
+    "amount": 642.19,
+    "currency": "USD",
+    "merchant": "McDonald's",
+    "description": "Purchase transaction",
+    "timestamp": "2024-07-21 15:51:06",
+    "status": "completed",
+    "balance_after": 2695.21,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000017",
+    "account_number": "401861540",
+    "routing_number": "505059911",
+    "transaction_type": "refund",
+    "amount": 879.95,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-01-02 15:51:06",
+    "status": "failed",
+    "balance_after": 2840.43,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000018",
+    "account_number": "465825477",
+    "routing_number": "464381542",
+    "transaction_type": "deposit",
+    "amount": 433.68,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-11-29 15:51:06",
+    "status": "pending",
+    "balance_after": 8378.22,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000019",
+    "account_number": "593392476",
+    "routing_number": "841443349",
+    "transaction_type": "fee",
+    "amount": 341.46,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-11-16 15:51:06",
+    "status": "failed",
+    "balance_after": 19974.71,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000020",
+    "account_number": "511601437",
+    "routing_number": "191410636",
+    "transaction_type": "purchase",
+    "amount": 363.45,
+    "currency": "USD",
+    "merchant": "Adobe",
+    "description": "Purchase transaction",
+    "timestamp": "2024-09-21 15:51:06",
+    "status": "pending",
+    "balance_after": 20597.46,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000021",
+    "account_number": "449644048",
+    "routing_number": "966752587",
+    "transaction_type": "refund",
+    "amount": 104.39,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-09-13 15:51:06",
+    "status": "pending",
+    "balance_after": 45962.72,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000022",
+    "account_number": "406310538",
+    "routing_number": "661205289",
+    "transaction_type": "fee",
+    "amount": 665.88,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-15 15:51:06",
+    "status": "failed",
+    "balance_after": 26681.94,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000023",
+    "account_number": "538064962",
+    "routing_number": "853983165",
+    "transaction_type": "purchase",
+    "amount": 551.08,
+    "currency": "USD",
+    "merchant": "McDonald's",
+    "description": "Purchase transaction",
+    "timestamp": "2025-05-16 15:51:06",
+    "status": "completed",
+    "balance_after": 6347.05,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000024",
+    "account_number": "320073275",
+    "routing_number": "502895403",
+    "transaction_type": "fee",
+    "amount": 760.42,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-12-04 15:51:06",
+    "status": "completed",
+    "balance_after": 25155.66,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000025",
+    "account_number": "971847895",
+    "routing_number": "505823294",
+    "transaction_type": "refund",
+    "amount": 242.63,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-06-13 15:51:06",
+    "status": "failed",
+    "balance_after": 8303.91,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000026",
+    "account_number": "385976226",
+    "routing_number": "586112813",
+    "transaction_type": "withdrawal",
+    "amount": 875.85,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-02-15 15:51:06",
+    "status": "failed",
+    "balance_after": 39327.4,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000027",
+    "account_number": "656617375",
+    "routing_number": "656313563",
+    "transaction_type": "deposit",
+    "amount": 527.53,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-09-02 15:51:06",
+    "status": "failed",
+    "balance_after": 36700.68,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000028",
+    "account_number": "884220288",
+    "routing_number": "614922358",
+    "transaction_type": "transfer",
+    "amount": 547.85,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-12-23 15:51:06",
+    "status": "failed",
+    "balance_after": 22476.05,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000029",
+    "account_number": "223818470",
+    "routing_number": "332498764",
+    "transaction_type": "purchase",
+    "amount": 523.72,
+    "currency": "USD",
+    "merchant": "Netflix",
+    "description": "Purchase transaction",
+    "timestamp": "2025-06-14 15:51:06",
+    "status": "completed",
+    "balance_after": 40026.55,
+    "location": {
+      "city": "Phoenix",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000030",
+    "account_number": "646214021",
+    "routing_number": "407427191",
+    "transaction_type": "purchase",
+    "amount": 997.87,
+    "currency": "USD",
+    "merchant": "Amazon",
+    "description": "Purchase transaction",
+    "timestamp": "2024-10-09 15:51:06",
+    "status": "completed",
+    "balance_after": 8389.7,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000031",
+    "account_number": "530210081",
+    "routing_number": "424778583",
+    "transaction_type": "fee",
+    "amount": 139.34,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-03-13 15:51:06",
+    "status": "completed",
+    "balance_after": 46538.95,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000032",
+    "account_number": "510116517",
+    "routing_number": "918458938",
+    "transaction_type": "transfer",
+    "amount": 506.27,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-06 15:51:06",
+    "status": "pending",
+    "balance_after": 14820.73,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000033",
+    "account_number": "284087051",
+    "routing_number": "490569800",
+    "transaction_type": "withdrawal",
+    "amount": 116.69,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-10-09 15:51:06",
+    "status": "pending",
+    "balance_after": 15851.53,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000034",
+    "account_number": "695380358",
+    "routing_number": "371723767",
+    "transaction_type": "purchase",
+    "amount": 109.75,
+    "currency": "USD",
+    "merchant": "Target",
+    "description": "Purchase transaction",
+    "timestamp": "2025-05-27 15:51:06",
+    "status": "failed",
+    "balance_after": 28053.94,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000035",
+    "account_number": "306616309",
+    "routing_number": "711665195",
+    "transaction_type": "deposit",
+    "amount": 697.94,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-09-26 15:51:06",
+    "status": "completed",
+    "balance_after": 35682.78,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000036",
+    "account_number": "768432398",
+    "routing_number": "615280497",
+    "transaction_type": "deposit",
+    "amount": 74.93,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-07-07 15:51:06",
+    "status": "completed",
+    "balance_after": 31520.91,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000037",
+    "account_number": "273421336",
+    "routing_number": "358963394",
+    "transaction_type": "withdrawal",
+    "amount": 733.21,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-03-23 15:51:06",
+    "status": "failed",
+    "balance_after": 47929.11,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000038",
+    "account_number": "478909846",
+    "routing_number": "393522977",
+    "transaction_type": "fee",
+    "amount": 516.74,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-02-04 15:51:06",
+    "status": "completed",
+    "balance_after": 40552.92,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000039",
+    "account_number": "953612600",
+    "routing_number": "172407959",
+    "transaction_type": "withdrawal",
+    "amount": 328.61,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-08-30 15:51:06",
+    "status": "completed",
+    "balance_after": 10028.04,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000040",
+    "account_number": "151346246",
+    "routing_number": "205111376",
+    "transaction_type": "fee",
+    "amount": 460.2,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-11-23 15:51:06",
+    "status": "pending",
+    "balance_after": 19087.78,
+    "location": {
+      "city": "New York",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000041",
+    "account_number": "891266826",
+    "routing_number": "866286319",
+    "transaction_type": "fee",
+    "amount": 687.84,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-10-22 15:51:06",
+    "status": "pending",
+    "balance_after": 5421.17,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000042",
+    "account_number": "918772541",
+    "routing_number": "171944096",
+    "transaction_type": "fee",
+    "amount": 319.53,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-11 15:51:06",
+    "status": "failed",
+    "balance_after": 6537.15,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000043",
+    "account_number": "842403243",
+    "routing_number": "465401250",
+    "transaction_type": "transfer",
+    "amount": 733.1,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-08-05 15:51:06",
+    "status": "completed",
+    "balance_after": 5137.96,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000044",
+    "account_number": "424045386",
+    "routing_number": "936767021",
+    "transaction_type": "transfer",
+    "amount": 880.11,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-02 15:51:06",
+    "status": "pending",
+    "balance_after": 1611.02,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000045",
+    "account_number": "510401021",
+    "routing_number": "166351424",
+    "transaction_type": "purchase",
+    "amount": 15.53,
+    "currency": "USD",
+    "merchant": "GrubHub",
+    "description": "Purchase transaction",
+    "timestamp": "2024-08-10 15:51:06",
+    "status": "failed",
+    "balance_after": 34406.75,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000046",
+    "account_number": "811716185",
+    "routing_number": "231897736",
+    "transaction_type": "withdrawal",
+    "amount": 725.15,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-04-01 15:51:06",
+    "status": "completed",
+    "balance_after": 23699.71,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000047",
+    "account_number": "311436957",
+    "routing_number": "156530824",
+    "transaction_type": "fee",
+    "amount": 82.32,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-02-16 15:51:06",
+    "status": "completed",
+    "balance_after": 47577.81,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000048",
+    "account_number": "394847357",
+    "routing_number": "222682804",
+    "transaction_type": "transfer",
+    "amount": 833.65,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-09-23 15:51:06",
+    "status": "failed",
+    "balance_after": 16556.4,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000049",
+    "account_number": "444273322",
+    "routing_number": "354726770",
+    "transaction_type": "fee",
+    "amount": 389.91,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-12 15:51:06",
+    "status": "failed",
+    "balance_after": 48116.51,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000050",
+    "account_number": "199485712",
+    "routing_number": "649947379",
+    "transaction_type": "purchase",
+    "amount": 212.45,
+    "currency": "USD",
+    "merchant": "Microsoft",
+    "description": "Purchase transaction",
+    "timestamp": "2025-07-08 15:51:06",
+    "status": "pending",
+    "balance_after": 26664.55,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000051",
+    "account_number": "956335196",
+    "routing_number": "417671577",
+    "transaction_type": "fee",
+    "amount": 800.23,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-05 15:51:06",
+    "status": "pending",
+    "balance_after": 46014.97,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000052",
+    "account_number": "708815103",
+    "routing_number": "464800115",
+    "transaction_type": "refund",
+    "amount": 760.26,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-02-23 15:51:06",
+    "status": "completed",
+    "balance_after": 4641.11,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000053",
+    "account_number": "888334411",
+    "routing_number": "412853043",
+    "transaction_type": "purchase",
+    "amount": 284.11,
+    "currency": "USD",
+    "merchant": "Microsoft",
+    "description": "Purchase transaction",
+    "timestamp": "2024-08-13 15:51:06",
+    "status": "completed",
+    "balance_after": 24823.51,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000054",
+    "account_number": "874698543",
+    "routing_number": "806619164",
+    "transaction_type": "purchase",
+    "amount": 37.49,
+    "currency": "USD",
+    "merchant": "Amazon",
+    "description": "Purchase transaction",
+    "timestamp": "2024-12-21 15:51:06",
+    "status": "completed",
+    "balance_after": 30513.42,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000055",
+    "account_number": "591813054",
+    "routing_number": "167009216",
+    "transaction_type": "fee",
+    "amount": 608.13,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-04-19 15:51:06",
+    "status": "completed",
+    "balance_after": 38388.05,
+    "location": {
+      "city": "Chicago",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000056",
+    "account_number": "472333167",
+    "routing_number": "974740165",
+    "transaction_type": "deposit",
+    "amount": 924.17,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-05-28 15:51:06",
+    "status": "completed",
+    "balance_after": 7673.24,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000057",
+    "account_number": "492838827",
+    "routing_number": "353462186",
+    "transaction_type": "transfer",
+    "amount": 189.81,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-17 15:51:06",
+    "status": "failed",
+    "balance_after": 19445.99,
+    "location": {
+      "city": "Phoenix",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000058",
+    "account_number": "344555482",
+    "routing_number": "179187873",
+    "transaction_type": "transfer",
+    "amount": 124.69,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-24 15:51:06",
+    "status": "pending",
+    "balance_after": 13404.71,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000059",
+    "account_number": "457911720",
+    "routing_number": "582495303",
+    "transaction_type": "purchase",
+    "amount": 702.52,
+    "currency": "USD",
+    "merchant": "Spotify",
+    "description": "Purchase transaction",
+    "timestamp": "2024-11-18 15:51:06",
+    "status": "completed",
+    "balance_after": 2269.88,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000060",
+    "account_number": "502697065",
+    "routing_number": "345243765",
+    "transaction_type": "deposit",
+    "amount": 765.44,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-06-01 15:51:06",
+    "status": "completed",
+    "balance_after": 7381.2,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000061",
+    "account_number": "180694464",
+    "routing_number": "931001147",
+    "transaction_type": "refund",
+    "amount": 59.73,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-11-07 15:51:06",
+    "status": "pending",
+    "balance_after": 29421.72,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000062",
+    "account_number": "728113281",
+    "routing_number": "276157307",
+    "transaction_type": "deposit",
+    "amount": 8.3,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-07-02 15:51:06",
+    "status": "pending",
+    "balance_after": 38176.38,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000063",
+    "account_number": "935799090",
+    "routing_number": "595435251",
+    "transaction_type": "transfer",
+    "amount": 326.82,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-08-01 15:51:06",
+    "status": "completed",
+    "balance_after": 9158.88,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000064",
+    "account_number": "328725257",
+    "routing_number": "441153078",
+    "transaction_type": "withdrawal",
+    "amount": 552.48,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-02-10 15:51:06",
+    "status": "completed",
+    "balance_after": 37681.87,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000065",
+    "account_number": "336101339",
+    "routing_number": "396759680",
+    "transaction_type": "deposit",
+    "amount": 462.64,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-09-20 15:51:06",
+    "status": "failed",
+    "balance_after": 26183.67,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000066",
+    "account_number": "726849830",
+    "routing_number": "446573089",
+    "transaction_type": "fee",
+    "amount": 840.19,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-29 15:51:06",
+    "status": "completed",
+    "balance_after": 15277.96,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000067",
+    "account_number": "218588831",
+    "routing_number": "941756549",
+    "transaction_type": "refund",
+    "amount": 964.53,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-05-13 15:51:06",
+    "status": "completed",
+    "balance_after": 47175.21,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000068",
+    "account_number": "658934832",
+    "routing_number": "461473043",
+    "transaction_type": "refund",
+    "amount": 984.52,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-11-17 15:51:06",
+    "status": "completed",
+    "balance_after": 45413.4,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000069",
+    "account_number": "565455201",
+    "routing_number": "117254256",
+    "transaction_type": "transfer",
+    "amount": 637.84,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-10-16 15:51:06",
+    "status": "pending",
+    "balance_after": 17107.4,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000070",
+    "account_number": "844002346",
+    "routing_number": "988792695",
+    "transaction_type": "transfer",
+    "amount": 94.47,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-10-29 15:51:06",
+    "status": "completed",
+    "balance_after": 3546.42,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000071",
+    "account_number": "570435265",
+    "routing_number": "992884447",
+    "transaction_type": "refund",
+    "amount": 101.34,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-09-17 15:51:06",
+    "status": "failed",
+    "balance_after": 47001.53,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000072",
+    "account_number": "710619821",
+    "routing_number": "377552353",
+    "transaction_type": "withdrawal",
+    "amount": 563.46,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-07-14 15:51:06",
+    "status": "failed",
+    "balance_after": 5731.56,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000073",
+    "account_number": "869186268",
+    "routing_number": "614233225",
+    "transaction_type": "deposit",
+    "amount": 110.02,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-10-04 15:51:06",
+    "status": "failed",
+    "balance_after": 23171.8,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000074",
+    "account_number": "159186558",
+    "routing_number": "103479315",
+    "transaction_type": "deposit",
+    "amount": 27.85,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-03-09 15:51:06",
+    "status": "pending",
+    "balance_after": 22797.92,
+    "location": {
+      "city": "Chicago",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000075",
+    "account_number": "933417291",
+    "routing_number": "425944446",
+    "transaction_type": "withdrawal",
+    "amount": 495.63,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-11-01 15:51:06",
+    "status": "completed",
+    "balance_after": 35660.53,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000076",
+    "account_number": "624362285",
+    "routing_number": "909543121",
+    "transaction_type": "fee",
+    "amount": 976.45,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-07-25 15:51:06",
+    "status": "completed",
+    "balance_after": 42665.45,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000077",
+    "account_number": "367061910",
+    "routing_number": "450883705",
+    "transaction_type": "purchase",
+    "amount": 562.8,
+    "currency": "USD",
+    "merchant": "Starbucks",
+    "description": "Purchase transaction",
+    "timestamp": "2024-11-18 15:51:06",
+    "status": "completed",
+    "balance_after": 18169.53,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000078",
+    "account_number": "362034153",
+    "routing_number": "950204607",
+    "transaction_type": "fee",
+    "amount": 717.58,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-22 15:51:06",
+    "status": "completed",
+    "balance_after": 8802.15,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000079",
+    "account_number": "205971849",
+    "routing_number": "643622181",
+    "transaction_type": "withdrawal",
+    "amount": 14.08,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-06-16 15:51:06",
+    "status": "completed",
+    "balance_after": 30908.8,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000080",
+    "account_number": "869825847",
+    "routing_number": "995261752",
+    "transaction_type": "refund",
+    "amount": 280.21,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-08-18 15:51:06",
+    "status": "pending",
+    "balance_after": 40387.03,
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000081",
+    "account_number": "898024834",
+    "routing_number": "354627528",
+    "transaction_type": "purchase",
+    "amount": 217.24,
+    "currency": "USD",
+    "merchant": "Walmart",
+    "description": "Purchase transaction",
+    "timestamp": "2025-07-03 15:51:06",
+    "status": "completed",
+    "balance_after": 38032.24,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000082",
+    "account_number": "747283908",
+    "routing_number": "348204793",
+    "transaction_type": "transfer",
+    "amount": 81.01,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-06-25 15:51:06",
+    "status": "pending",
+    "balance_after": 3440.82,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000083",
+    "account_number": "677857980",
+    "routing_number": "547029260",
+    "transaction_type": "withdrawal",
+    "amount": 51.92,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-02-10 15:51:06",
+    "status": "failed",
+    "balance_after": 49802.94,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000084",
+    "account_number": "570861258",
+    "routing_number": "672928279",
+    "transaction_type": "fee",
+    "amount": 508.61,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-01-24 15:51:06",
+    "status": "failed",
+    "balance_after": 13958.15,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000085",
+    "account_number": "529389510",
+    "routing_number": "102252189",
+    "transaction_type": "deposit",
+    "amount": 761.0,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-03-07 15:51:06",
+    "status": "completed",
+    "balance_after": 46044.54,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000086",
+    "account_number": "618102050",
+    "routing_number": "990400576",
+    "transaction_type": "withdrawal",
+    "amount": 903.46,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-11-18 15:51:06",
+    "status": "failed",
+    "balance_after": 44137.99,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000087",
+    "account_number": "683750364",
+    "routing_number": "471539646",
+    "transaction_type": "transfer",
+    "amount": 961.65,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-07-15 15:51:06",
+    "status": "failed",
+    "balance_after": 7608.34,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000088",
+    "account_number": "612066471",
+    "routing_number": "554221980",
+    "transaction_type": "transfer",
+    "amount": 670.09,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-18 15:51:06",
+    "status": "pending",
+    "balance_after": 28523.73,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000089",
+    "account_number": "211004116",
+    "routing_number": "295233047",
+    "transaction_type": "fee",
+    "amount": 719.7,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-07-23 15:51:06",
+    "status": "completed",
+    "balance_after": 38883.72,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000090",
+    "account_number": "352563776",
+    "routing_number": "341960075",
+    "transaction_type": "deposit",
+    "amount": 693.6,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-05-20 15:51:06",
+    "status": "pending",
+    "balance_after": 32190.86,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000091",
+    "account_number": "886478350",
+    "routing_number": "102987349",
+    "transaction_type": "fee",
+    "amount": 307.17,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-05 15:51:06",
+    "status": "pending",
+    "balance_after": 13737.73,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000092",
+    "account_number": "116530988",
+    "routing_number": "829352646",
+    "transaction_type": "fee",
+    "amount": 100.26,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-02 15:51:06",
+    "status": "pending",
+    "balance_after": 33971.1,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000093",
+    "account_number": "906779045",
+    "routing_number": "621192060",
+    "transaction_type": "deposit",
+    "amount": 150.6,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-08-02 15:51:06",
+    "status": "failed",
+    "balance_after": 9907.54,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000094",
+    "account_number": "413292202",
+    "routing_number": "779679367",
+    "transaction_type": "withdrawal",
+    "amount": 203.82,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-04-16 15:51:06",
+    "status": "completed",
+    "balance_after": 46005.35,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000095",
+    "account_number": "195284818",
+    "routing_number": "450575387",
+    "transaction_type": "transfer",
+    "amount": 333.28,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-12-08 15:51:06",
+    "status": "pending",
+    "balance_after": 43392.14,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000096",
+    "account_number": "769320918",
+    "routing_number": "236253851",
+    "transaction_type": "refund",
+    "amount": 843.23,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-06-03 15:51:06",
+    "status": "pending",
+    "balance_after": 30084.89,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000097",
+    "account_number": "533469572",
+    "routing_number": "763705417",
+    "transaction_type": "deposit",
+    "amount": 354.84,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-02-20 15:51:06",
+    "status": "pending",
+    "balance_after": 24424.04,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000098",
+    "account_number": "267985891",
+    "routing_number": "413274433",
+    "transaction_type": "transfer",
+    "amount": 689.93,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-04-04 15:51:06",
+    "status": "failed",
+    "balance_after": 45475.54,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000099",
+    "account_number": "924572609",
+    "routing_number": "418440512",
+    "transaction_type": "refund",
+    "amount": 256.2,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-08-17 15:51:06",
+    "status": "pending",
+    "balance_after": 40181.66,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000100",
+    "account_number": "238726644",
+    "routing_number": "621116199",
+    "transaction_type": "purchase",
+    "amount": 326.16,
+    "currency": "USD",
+    "merchant": "Slack",
+    "description": "Purchase transaction",
+    "timestamp": "2025-04-23 15:51:06",
+    "status": "pending",
+    "balance_after": 13089.7,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000101",
+    "account_number": "934208834",
+    "routing_number": "780300495",
+    "transaction_type": "purchase",
+    "amount": 296.85,
+    "currency": "USD",
+    "merchant": "Dropbox",
+    "description": "Purchase transaction",
+    "timestamp": "2025-03-26 15:51:06",
+    "status": "pending",
+    "balance_after": 29769.52,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000102",
+    "account_number": "228397216",
+    "routing_number": "330065487",
+    "transaction_type": "refund",
+    "amount": 379.42,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-02-11 15:51:06",
+    "status": "failed",
+    "balance_after": 3989.23,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000103",
+    "account_number": "782402012",
+    "routing_number": "213384291",
+    "transaction_type": "fee",
+    "amount": 33.44,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-02-27 15:51:06",
+    "status": "failed",
+    "balance_after": 24748.83,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000104",
+    "account_number": "340122077",
+    "routing_number": "644680376",
+    "transaction_type": "transfer",
+    "amount": 445.69,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-07-09 15:51:06",
+    "status": "completed",
+    "balance_after": 10970.95,
+    "location": {
+      "city": "Phoenix",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000105",
+    "account_number": "584108780",
+    "routing_number": "118347765",
+    "transaction_type": "transfer",
+    "amount": 604.32,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-08-30 15:51:06",
+    "status": "failed",
+    "balance_after": 30750.9,
+    "location": {
+      "city": "New York",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000106",
+    "account_number": "672016469",
+    "routing_number": "857972183",
+    "transaction_type": "deposit",
+    "amount": 546.43,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-02-08 15:51:06",
+    "status": "pending",
+    "balance_after": 23419.61,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000107",
+    "account_number": "153672977",
+    "routing_number": "627167890",
+    "transaction_type": "withdrawal",
+    "amount": 372.57,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-06-04 15:51:06",
+    "status": "failed",
+    "balance_after": 46078.87,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000108",
+    "account_number": "539253732",
+    "routing_number": "636851290",
+    "transaction_type": "transfer",
+    "amount": 706.88,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-12-10 15:51:06",
+    "status": "completed",
+    "balance_after": 47403.7,
+    "location": {
+      "city": "New York",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000109",
+    "account_number": "135749322",
+    "routing_number": "632952849",
+    "transaction_type": "withdrawal",
+    "amount": 714.62,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-03-23 15:51:06",
+    "status": "pending",
+    "balance_after": 8113.91,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000110",
+    "account_number": "537532519",
+    "routing_number": "271155482",
+    "transaction_type": "deposit",
+    "amount": 481.45,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-01-07 15:51:06",
+    "status": "completed",
+    "balance_after": 16134.59,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000111",
+    "account_number": "329214262",
+    "routing_number": "379533140",
+    "transaction_type": "deposit",
+    "amount": 161.7,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-10-13 15:51:06",
+    "status": "pending",
+    "balance_after": 43058.64,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000112",
+    "account_number": "812388749",
+    "routing_number": "901587027",
+    "transaction_type": "refund",
+    "amount": 310.93,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-10-08 15:51:06",
+    "status": "completed",
+    "balance_after": 20673.78,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000113",
+    "account_number": "237559132",
+    "routing_number": "817357647",
+    "transaction_type": "transfer",
+    "amount": 560.15,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-04-30 15:51:06",
+    "status": "pending",
+    "balance_after": 36936.14,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000114",
+    "account_number": "308235298",
+    "routing_number": "528361717",
+    "transaction_type": "transfer",
+    "amount": 437.16,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-05-18 15:51:06",
+    "status": "pending",
+    "balance_after": 37378.18,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000115",
+    "account_number": "159909136",
+    "routing_number": "545481298",
+    "transaction_type": "fee",
+    "amount": 298.37,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-20 15:51:06",
+    "status": "completed",
+    "balance_after": 18558.54,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000116",
+    "account_number": "315620502",
+    "routing_number": "778447047",
+    "transaction_type": "refund",
+    "amount": 418.48,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-02-22 15:51:06",
+    "status": "failed",
+    "balance_after": 4871.69,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000117",
+    "account_number": "236972006",
+    "routing_number": "274490754",
+    "transaction_type": "fee",
+    "amount": 559.56,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-08 15:51:06",
+    "status": "completed",
+    "balance_after": 37669.93,
+    "location": {
+      "city": "Phoenix",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000118",
+    "account_number": "217214590",
+    "routing_number": "493746959",
+    "transaction_type": "fee",
+    "amount": 517.94,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-09-08 15:51:06",
+    "status": "completed",
+    "balance_after": 8874.64,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000119",
+    "account_number": "723549500",
+    "routing_number": "241374468",
+    "transaction_type": "transfer",
+    "amount": 884.68,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-02-08 15:51:06",
+    "status": "pending",
+    "balance_after": 15083.88,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000120",
+    "account_number": "403794309",
+    "routing_number": "738580859",
+    "transaction_type": "purchase",
+    "amount": 555.65,
+    "currency": "USD",
+    "merchant": "Spotify",
+    "description": "Purchase transaction",
+    "timestamp": "2025-03-01 15:51:06",
+    "status": "failed",
+    "balance_after": 44465.5,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000121",
+    "account_number": "363675391",
+    "routing_number": "164744477",
+    "transaction_type": "fee",
+    "amount": 383.79,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-07-29 15:51:06",
+    "status": "completed",
+    "balance_after": 36320.27,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000122",
+    "account_number": "472646199",
+    "routing_number": "114359700",
+    "transaction_type": "withdrawal",
+    "amount": 426.75,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-05-16 15:51:06",
+    "status": "failed",
+    "balance_after": 37221.4,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000123",
+    "account_number": "387531663",
+    "routing_number": "123570301",
+    "transaction_type": "deposit",
+    "amount": 417.32,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-12-11 15:51:06",
+    "status": "pending",
+    "balance_after": 7936.26,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000124",
+    "account_number": "843841743",
+    "routing_number": "373780029",
+    "transaction_type": "deposit",
+    "amount": 836.39,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-10-20 15:51:06",
+    "status": "failed",
+    "balance_after": 12454.93,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000125",
+    "account_number": "154832473",
+    "routing_number": "693993324",
+    "transaction_type": "refund",
+    "amount": 159.44,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-12-08 15:51:06",
+    "status": "failed",
+    "balance_after": 45369.74,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000126",
+    "account_number": "836785840",
+    "routing_number": "534414644",
+    "transaction_type": "refund",
+    "amount": 193.41,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-06-07 15:51:06",
+    "status": "completed",
+    "balance_after": 33164.42,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000127",
+    "account_number": "444537039",
+    "routing_number": "443808753",
+    "transaction_type": "fee",
+    "amount": 340.47,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-12-04 15:51:06",
+    "status": "failed",
+    "balance_after": 47701.47,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000128",
+    "account_number": "586558935",
+    "routing_number": "269947664",
+    "transaction_type": "deposit",
+    "amount": 516.87,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-01-13 15:51:06",
+    "status": "pending",
+    "balance_after": 34485.08,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000129",
+    "account_number": "394408377",
+    "routing_number": "133185320",
+    "transaction_type": "purchase",
+    "amount": 889.63,
+    "currency": "USD",
+    "merchant": "Adobe",
+    "description": "Purchase transaction",
+    "timestamp": "2024-08-18 15:51:06",
+    "status": "completed",
+    "balance_after": 46503.83,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000130",
+    "account_number": "532694143",
+    "routing_number": "394990376",
+    "transaction_type": "purchase",
+    "amount": 300.59,
+    "currency": "USD",
+    "merchant": "Adobe",
+    "description": "Purchase transaction",
+    "timestamp": "2025-01-16 15:51:06",
+    "status": "completed",
+    "balance_after": 2875.02,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000131",
+    "account_number": "442044646",
+    "routing_number": "311261190",
+    "transaction_type": "fee",
+    "amount": 402.92,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-03-15 15:51:06",
+    "status": "completed",
+    "balance_after": 3159.44,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000132",
+    "account_number": "390197998",
+    "routing_number": "282336589",
+    "transaction_type": "withdrawal",
+    "amount": 811.66,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-08-12 15:51:06",
+    "status": "completed",
+    "balance_after": 25457.17,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000133",
+    "account_number": "669715007",
+    "routing_number": "242395518",
+    "transaction_type": "withdrawal",
+    "amount": 935.64,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-12-17 15:51:06",
+    "status": "failed",
+    "balance_after": 16949.05,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000134",
+    "account_number": "720548151",
+    "routing_number": "275110566",
+    "transaction_type": "fee",
+    "amount": 165.73,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-03-15 15:51:06",
+    "status": "pending",
+    "balance_after": 17701.37,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000135",
+    "account_number": "978024273",
+    "routing_number": "327352511",
+    "transaction_type": "purchase",
+    "amount": 149.22,
+    "currency": "USD",
+    "merchant": "Zoom",
+    "description": "Purchase transaction",
+    "timestamp": "2025-06-19 15:51:06",
+    "status": "failed",
+    "balance_after": 44935.88,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000136",
+    "account_number": "148667573",
+    "routing_number": "964643153",
+    "transaction_type": "purchase",
+    "amount": 165.71,
+    "currency": "USD",
+    "merchant": "Starbucks",
+    "description": "Purchase transaction",
+    "timestamp": "2025-04-08 15:51:06",
+    "status": "pending",
+    "balance_after": 13127.95,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000137",
+    "account_number": "533129435",
+    "routing_number": "405815176",
+    "transaction_type": "fee",
+    "amount": 190.91,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-04-27 15:51:06",
+    "status": "pending",
+    "balance_after": 49948.68,
+    "location": {
+      "city": "New York",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000138",
+    "account_number": "106857093",
+    "routing_number": "560804217",
+    "transaction_type": "purchase",
+    "amount": 389.6,
+    "currency": "USD",
+    "merchant": "Slack",
+    "description": "Purchase transaction",
+    "timestamp": "2025-03-29 15:51:06",
+    "status": "failed",
+    "balance_after": 38313.34,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000139",
+    "account_number": "342913102",
+    "routing_number": "590554527",
+    "transaction_type": "refund",
+    "amount": 451.97,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-04-05 15:51:06",
+    "status": "pending",
+    "balance_after": 40717.75,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000140",
+    "account_number": "481377324",
+    "routing_number": "984673865",
+    "transaction_type": "purchase",
+    "amount": 975.85,
+    "currency": "USD",
+    "merchant": "Apple Store",
+    "description": "Purchase transaction",
+    "timestamp": "2024-07-29 15:51:06",
+    "status": "completed",
+    "balance_after": 34695.2,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000141",
+    "account_number": "906627411",
+    "routing_number": "101663217",
+    "transaction_type": "withdrawal",
+    "amount": 823.61,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-08-27 15:51:06",
+    "status": "pending",
+    "balance_after": 43432.56,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000142",
+    "account_number": "203178259",
+    "routing_number": "506959289",
+    "transaction_type": "deposit",
+    "amount": 828.0,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-02-18 15:51:06",
+    "status": "pending",
+    "balance_after": 45820.21,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000143",
+    "account_number": "150559162",
+    "routing_number": "830485096",
+    "transaction_type": "refund",
+    "amount": 486.37,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-10-19 15:51:06",
+    "status": "completed",
+    "balance_after": 2697.32,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000144",
+    "account_number": "544941214",
+    "routing_number": "334024930",
+    "transaction_type": "fee",
+    "amount": 428.7,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-07-02 15:51:06",
+    "status": "failed",
+    "balance_after": 27508.6,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000145",
+    "account_number": "765550791",
+    "routing_number": "258233242",
+    "transaction_type": "withdrawal",
+    "amount": 406.37,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-04-02 15:51:06",
+    "status": "pending",
+    "balance_after": 20208.04,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000146",
+    "account_number": "121453533",
+    "routing_number": "169781754",
+    "transaction_type": "refund",
+    "amount": 33.5,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-01-11 15:51:06",
+    "status": "completed",
+    "balance_after": 6557.79,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000147",
+    "account_number": "437063131",
+    "routing_number": "268605918",
+    "transaction_type": "transfer",
+    "amount": 246.36,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-12-18 15:51:06",
+    "status": "completed",
+    "balance_after": 16319.15,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000148",
+    "account_number": "692218887",
+    "routing_number": "653378481",
+    "transaction_type": "refund",
+    "amount": 772.32,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-08-22 15:51:06",
+    "status": "failed",
+    "balance_after": 15210.39,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000149",
+    "account_number": "300187263",
+    "routing_number": "646309512",
+    "transaction_type": "fee",
+    "amount": 839.5,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-05-17 15:51:06",
+    "status": "pending",
+    "balance_after": 12175.12,
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000150",
+    "account_number": "639095635",
+    "routing_number": "731977170",
+    "transaction_type": "fee",
+    "amount": 230.65,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-11-06 15:51:06",
+    "status": "completed",
+    "balance_after": 5628.02,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000151",
+    "account_number": "521733669",
+    "routing_number": "297734442",
+    "transaction_type": "purchase",
+    "amount": 926.3,
+    "currency": "USD",
+    "merchant": "Dropbox",
+    "description": "Purchase transaction",
+    "timestamp": "2025-03-16 15:51:06",
+    "status": "pending",
+    "balance_after": 42827.7,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000152",
+    "account_number": "312558881",
+    "routing_number": "174642833",
+    "transaction_type": "purchase",
+    "amount": 235.09,
+    "currency": "USD",
+    "merchant": "Lyft",
+    "description": "Purchase transaction",
+    "timestamp": "2025-05-05 15:51:06",
+    "status": "pending",
+    "balance_after": 15851.49,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000153",
+    "account_number": "437851372",
+    "routing_number": "723083570",
+    "transaction_type": "refund",
+    "amount": 592.87,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-05-02 15:51:06",
+    "status": "failed",
+    "balance_after": 32978.04,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000154",
+    "account_number": "464472301",
+    "routing_number": "977284678",
+    "transaction_type": "transfer",
+    "amount": 32.72,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-12-14 15:51:06",
+    "status": "completed",
+    "balance_after": 41766.38,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000155",
+    "account_number": "105823477",
+    "routing_number": "740881377",
+    "transaction_type": "fee",
+    "amount": 448.97,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-02-13 15:51:06",
+    "status": "pending",
+    "balance_after": 22492.87,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000156",
+    "account_number": "142598135",
+    "routing_number": "992036688",
+    "transaction_type": "transfer",
+    "amount": 919.91,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-10-22 15:51:06",
+    "status": "failed",
+    "balance_after": 13284.92,
+    "location": {
+      "city": "New York",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000157",
+    "account_number": "523265582",
+    "routing_number": "748529192",
+    "transaction_type": "purchase",
+    "amount": 952.49,
+    "currency": "USD",
+    "merchant": "Apple Store",
+    "description": "Purchase transaction",
+    "timestamp": "2025-02-02 15:51:06",
+    "status": "completed",
+    "balance_after": 2350.64,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000158",
+    "account_number": "369063916",
+    "routing_number": "770921332",
+    "transaction_type": "withdrawal",
+    "amount": 423.15,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2025-04-19 15:51:06",
+    "status": "failed",
+    "balance_after": 40274.46,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000159",
+    "account_number": "152375999",
+    "routing_number": "527987111",
+    "transaction_type": "refund",
+    "amount": 535.77,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-01-13 15:51:06",
+    "status": "completed",
+    "balance_after": 21504.8,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000160",
+    "account_number": "564693774",
+    "routing_number": "432243126",
+    "transaction_type": "deposit",
+    "amount": 848.65,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-03-25 15:51:06",
+    "status": "completed",
+    "balance_after": 4458.97,
+    "location": {
+      "city": "New York",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000161",
+    "account_number": "954058485",
+    "routing_number": "901957852",
+    "transaction_type": "fee",
+    "amount": 597.75,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-10-28 15:51:06",
+    "status": "failed",
+    "balance_after": 37606.76,
+    "location": {
+      "city": "Phoenix",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000162",
+    "account_number": "622350855",
+    "routing_number": "132526393",
+    "transaction_type": "transfer",
+    "amount": 616.65,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-01-25 15:51:06",
+    "status": "pending",
+    "balance_after": 6561.39,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000163",
+    "account_number": "826685337",
+    "routing_number": "161161124",
+    "transaction_type": "purchase",
+    "amount": 209.1,
+    "currency": "USD",
+    "merchant": "Slack",
+    "description": "Purchase transaction",
+    "timestamp": "2025-05-13 15:51:06",
+    "status": "pending",
+    "balance_after": 48089.67,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000164",
+    "account_number": "290684051",
+    "routing_number": "506433939",
+    "transaction_type": "refund",
+    "amount": 517.78,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-10-30 15:51:06",
+    "status": "completed",
+    "balance_after": 35090.7,
+    "location": {
+      "city": "Los Angeles",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000165",
+    "account_number": "482653276",
+    "routing_number": "304946899",
+    "transaction_type": "fee",
+    "amount": 950.46,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-07-19 15:51:06",
+    "status": "failed",
+    "balance_after": 10876.91,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000166",
+    "account_number": "563826056",
+    "routing_number": "974082293",
+    "transaction_type": "withdrawal",
+    "amount": 423.76,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-09-21 15:51:06",
+    "status": "pending",
+    "balance_after": 43726.71,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000167",
+    "account_number": "224628060",
+    "routing_number": "987972004",
+    "transaction_type": "refund",
+    "amount": 694.01,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-12-13 15:51:06",
+    "status": "completed",
+    "balance_after": 4433.97,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000168",
+    "account_number": "383407691",
+    "routing_number": "881122004",
+    "transaction_type": "deposit",
+    "amount": 600.87,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-11-12 15:51:06",
+    "status": "failed",
+    "balance_after": 22278.91,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000169",
+    "account_number": "482851543",
+    "routing_number": "855822836",
+    "transaction_type": "deposit",
+    "amount": 262.49,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-09-24 15:51:06",
+    "status": "completed",
+    "balance_after": 14436.71,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000170",
+    "account_number": "896490120",
+    "routing_number": "881017380",
+    "transaction_type": "deposit",
+    "amount": 405.56,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-02-09 15:51:06",
+    "status": "failed",
+    "balance_after": 47339.68,
+    "location": {
+      "city": "Chicago",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000171",
+    "account_number": "147433434",
+    "routing_number": "752176875",
+    "transaction_type": "fee",
+    "amount": 71.19,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-06-08 15:51:06",
+    "status": "pending",
+    "balance_after": 48436.35,
+    "location": {
+      "city": "Los Angeles",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000172",
+    "account_number": "720391911",
+    "routing_number": "245911199",
+    "transaction_type": "fee",
+    "amount": 765.18,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-12-20 15:51:06",
+    "status": "completed",
+    "balance_after": 23932.08,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000173",
+    "account_number": "993548425",
+    "routing_number": "323148551",
+    "transaction_type": "deposit",
+    "amount": 808.1,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-01-27 15:51:06",
+    "status": "failed",
+    "balance_after": 21294.07,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000174",
+    "account_number": "319453367",
+    "routing_number": "577967945",
+    "transaction_type": "fee",
+    "amount": 638.93,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-10 15:51:06",
+    "status": "failed",
+    "balance_after": 10440.15,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000175",
+    "account_number": "553524284",
+    "routing_number": "367817757",
+    "transaction_type": "transfer",
+    "amount": 524.29,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-03-09 15:51:06",
+    "status": "pending",
+    "balance_after": 37297.23,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000176",
+    "account_number": "503714140",
+    "routing_number": "762924459",
+    "transaction_type": "refund",
+    "amount": 15.83,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-04-12 15:51:06",
+    "status": "pending",
+    "balance_after": 22886.25,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000177",
+    "account_number": "839680033",
+    "routing_number": "958061296",
+    "transaction_type": "transfer",
+    "amount": 993.46,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-11-02 15:51:06",
+    "status": "failed",
+    "balance_after": 21795.81,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000178",
+    "account_number": "381327355",
+    "routing_number": "993391695",
+    "transaction_type": "deposit",
+    "amount": 127.64,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2024-10-30 15:51:06",
+    "status": "completed",
+    "balance_after": 42772.47,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000179",
+    "account_number": "349532909",
+    "routing_number": "688098882",
+    "transaction_type": "fee",
+    "amount": 36.73,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-08-18 15:51:06",
+    "status": "completed",
+    "balance_after": 8470.63,
+    "location": {
+      "city": "Chicago",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000180",
+    "account_number": "503991176",
+    "routing_number": "966396771",
+    "transaction_type": "fee",
+    "amount": 190.59,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-05-25 15:51:06",
+    "status": "failed",
+    "balance_after": 15514.25,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000181",
+    "account_number": "207205735",
+    "routing_number": "438445435",
+    "transaction_type": "fee",
+    "amount": 333.52,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-03-13 15:51:06",
+    "status": "failed",
+    "balance_after": 25668.35,
+    "location": {
+      "city": "Phoenix",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000182",
+    "account_number": "777512052",
+    "routing_number": "108355216",
+    "transaction_type": "transfer",
+    "amount": 939.56,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-04-19 15:51:06",
+    "status": "completed",
+    "balance_after": 30362.3,
+    "location": {
+      "city": "Chicago",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000183",
+    "account_number": "410821629",
+    "routing_number": "945209131",
+    "transaction_type": "refund",
+    "amount": 951.86,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-03-27 15:51:06",
+    "status": "failed",
+    "balance_after": 16745.28,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000184",
+    "account_number": "467609548",
+    "routing_number": "499647909",
+    "transaction_type": "transfer",
+    "amount": 430.11,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-08-31 15:51:06",
+    "status": "pending",
+    "balance_after": 28139.62,
+    "location": {
+      "city": "Phoenix",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000185",
+    "account_number": "233228322",
+    "routing_number": "977355877",
+    "transaction_type": "refund",
+    "amount": 432.12,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2024-08-25 15:51:06",
+    "status": "completed",
+    "balance_after": 29068.82,
+    "location": {
+      "city": "Phoenix",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000186",
+    "account_number": "520497855",
+    "routing_number": "209954805",
+    "transaction_type": "refund",
+    "amount": 283.86,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Refund transaction",
+    "timestamp": "2025-05-13 15:51:06",
+    "status": "completed",
+    "balance_after": 13826.71,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000187",
+    "account_number": "864116968",
+    "routing_number": "216795956",
+    "transaction_type": "deposit",
+    "amount": 355.07,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-06-14 15:51:06",
+    "status": "completed",
+    "balance_after": 43585.47,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000188",
+    "account_number": "410474026",
+    "routing_number": "313702839",
+    "transaction_type": "transfer",
+    "amount": 563.07,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-01-23 15:51:06",
+    "status": "completed",
+    "balance_after": 45160.01,
+    "location": {
+      "city": "Houston",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000189",
+    "account_number": "676823209",
+    "routing_number": "663142555",
+    "transaction_type": "fee",
+    "amount": 287.79,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-12-27 15:51:06",
+    "status": "pending",
+    "balance_after": 30868.63,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000190",
+    "account_number": "644134036",
+    "routing_number": "374862627",
+    "transaction_type": "deposit",
+    "amount": 152.11,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Deposit transaction",
+    "timestamp": "2025-03-01 15:51:06",
+    "status": "completed",
+    "balance_after": 7227.16,
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000191",
+    "account_number": "762646000",
+    "routing_number": "312089479",
+    "transaction_type": "purchase",
+    "amount": 310.89,
+    "currency": "USD",
+    "merchant": "Zoom",
+    "description": "Purchase transaction",
+    "timestamp": "2025-07-16 15:51:06",
+    "status": "failed",
+    "balance_after": 27918.41,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000192",
+    "account_number": "115849692",
+    "routing_number": "546251524",
+    "transaction_type": "fee",
+    "amount": 814.44,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-10-16 15:51:06",
+    "status": "pending",
+    "balance_after": 8636.31,
+    "location": {
+      "city": "New York",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000193",
+    "account_number": "996087016",
+    "routing_number": "898622422",
+    "transaction_type": "fee",
+    "amount": 700.69,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2025-01-27 15:51:06",
+    "status": "completed",
+    "balance_after": 2934.04,
+    "location": {
+      "city": "Chicago",
+      "state": "AZ",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000194",
+    "account_number": "476231477",
+    "routing_number": "560793645",
+    "transaction_type": "withdrawal",
+    "amount": 490.95,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-10-05 15:51:06",
+    "status": "pending",
+    "balance_after": 9109.87,
+    "location": {
+      "city": "Houston",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000195",
+    "account_number": "786264377",
+    "routing_number": "625978976",
+    "transaction_type": "purchase",
+    "amount": 320.43,
+    "currency": "USD",
+    "merchant": "DoorDash",
+    "description": "Purchase transaction",
+    "timestamp": "2025-04-08 15:51:06",
+    "status": "completed",
+    "balance_after": 46122.37,
+    "location": {
+      "city": "Houston",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000196",
+    "account_number": "952914014",
+    "routing_number": "596717195",
+    "transaction_type": "transfer",
+    "amount": 982.52,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2024-11-29 15:51:06",
+    "status": "pending",
+    "balance_after": 27586.32,
+    "location": {
+      "city": "New York",
+      "state": "TX",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000197",
+    "account_number": "555453740",
+    "routing_number": "409398646",
+    "transaction_type": "purchase",
+    "amount": 719.24,
+    "currency": "USD",
+    "merchant": "Amazon",
+    "description": "Purchase transaction",
+    "timestamp": "2024-08-16 15:51:06",
+    "status": "pending",
+    "balance_after": 38085.05,
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000198",
+    "account_number": "785345472",
+    "routing_number": "329786062",
+    "transaction_type": "transfer",
+    "amount": 179.06,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Transfer transaction",
+    "timestamp": "2025-04-05 15:51:06",
+    "status": "completed",
+    "balance_after": 27722.25,
+    "location": {
+      "city": "Los Angeles",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000199",
+    "account_number": "650089733",
+    "routing_number": "967259265",
+    "transaction_type": "fee",
+    "amount": 949.18,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Fee transaction",
+    "timestamp": "2024-11-06 15:51:06",
+    "status": "failed",
+    "balance_after": 21766.68,
+    "location": {
+      "city": "Los Angeles",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "transaction_id": "TXN-20250719-000200",
+    "account_number": "492195138",
+    "routing_number": "156102763",
+    "transaction_type": "withdrawal",
+    "amount": 682.36,
+    "currency": "USD",
+    "merchant": null,
+    "description": "Withdrawal transaction",
+    "timestamp": "2024-10-07 15:51:06",
+    "status": "completed",
+    "balance_after": 14384.68,
+    "location": {
+      "city": "Houston",
+      "state": "AZ",
+      "country": "USA"
+    }
+  }
+]

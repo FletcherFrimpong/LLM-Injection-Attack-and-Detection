@@ -1,0 +1,2202 @@
+[
+  {
+    "customer_id": "CUST-000001",
+    "first_name": "Tiffany",
+    "last_name": "Hernandez",
+    "email": "tiffany.hernandez@outlook.com",
+    "phone": "+1-456-198-5637",
+    "address": {
+      "street": "3364 Pine Rd",
+      "city": "Los Angeles",
+      "state": "AZ",
+      "zip_code": "98294",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2023-06-19",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000002",
+    "first_name": "Anthony",
+    "last_name": "Hernandez",
+    "email": "anthony.hernandez@yahoo.com",
+    "phone": "+1-464-119-9805",
+    "address": {
+      "street": "7531 Elm St",
+      "city": "Philadelphia",
+      "state": "CA",
+      "zip_code": "72280",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2023-10-25",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000003",
+    "first_name": "Kimberly",
+    "last_name": "Anderson",
+    "email": "kimberly.anderson@hotmail.com",
+    "phone": "+1-396-479-4196",
+    "address": {
+      "street": "1640 Pine Rd",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "25302",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2023-08-28",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000004",
+    "first_name": "Rachel",
+    "last_name": "Green",
+    "email": "rachel.green@outlook.com",
+    "phone": "+1-986-720-7861",
+    "address": {
+      "street": "615 Pine Rd",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "27776",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2024-11-26",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000005",
+    "first_name": "Mark",
+    "last_name": "Wright",
+    "email": "mark.wright@hotmail.com",
+    "phone": "+1-571-479-4080",
+    "address": {
+      "street": "1803 Pine Rd",
+      "city": "Houston",
+      "state": "PA",
+      "zip_code": "43259",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2025-01-31",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000006",
+    "first_name": "Mark",
+    "last_name": "Miller",
+    "email": "mark.miller@yahoo.com",
+    "phone": "+1-401-580-4042",
+    "address": {
+      "street": "5616 Oak Ave",
+      "city": "Los Angeles",
+      "state": "PA",
+      "zip_code": "13459",
+      "country": "USA"
+    },
+    "company": "NetSecure",
+    "registration_date": "2022-11-16",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000007",
+    "first_name": "Megan",
+    "last_name": "King",
+    "email": "megan.king@gmail.com",
+    "phone": "+1-683-803-4290",
+    "address": {
+      "street": "7783 Cedar Ln",
+      "city": "New York",
+      "state": "IL",
+      "zip_code": "61449",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2025-02-23",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000008",
+    "first_name": "Matthew",
+    "last_name": "Garcia",
+    "email": "matthew.garcia@hotmail.com",
+    "phone": "+1-610-883-5987",
+    "address": {
+      "street": "3043 Main St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "93353",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2025-05-30",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000009",
+    "first_name": "Amanda",
+    "last_name": "Taylor",
+    "email": "amanda.taylor@yahoo.com",
+    "phone": "+1-915-263-7557",
+    "address": {
+      "street": "5130 Cedar Ln",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "75677",
+      "country": "USA"
+    },
+    "company": "InfoSecure",
+    "registration_date": "2024-05-02",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000010",
+    "first_name": "Robert",
+    "last_name": "Walker",
+    "email": "robert.walker@hotmail.com",
+    "phone": "+1-299-441-4674",
+    "address": {
+      "street": "9113 Maple Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "75375",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2022-12-04",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000011",
+    "first_name": "Michelle",
+    "last_name": "Garcia",
+    "email": "michelle.garcia@outlook.com",
+    "phone": "+1-565-123-5027",
+    "address": {
+      "street": "3020 Cedar Ln",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "71673",
+      "country": "USA"
+    },
+    "company": "InfoSecure",
+    "registration_date": "2024-01-16",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000012",
+    "first_name": "Ashley",
+    "last_name": "Hill",
+    "email": "ashley.hill@yahoo.com",
+    "phone": "+1-832-885-1556",
+    "address": {
+      "street": "2141 Main St",
+      "city": "Philadelphia",
+      "state": "NY",
+      "zip_code": "26503",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2024-01-28",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000013",
+    "first_name": "Emily",
+    "last_name": "King",
+    "email": "emily.king@yahoo.com",
+    "phone": "+1-206-348-4606",
+    "address": {
+      "street": "7916 Maple Dr",
+      "city": "New York",
+      "state": "TX",
+      "zip_code": "84301",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2024-08-30",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000014",
+    "first_name": "Daniel",
+    "last_name": "Jackson",
+    "email": "daniel.jackson@gmail.com",
+    "phone": "+1-661-857-9019",
+    "address": {
+      "street": "2523 Main St",
+      "city": "Phoenix",
+      "state": "PA",
+      "zip_code": "29174",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2024-11-23",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000015",
+    "first_name": "Jessica",
+    "last_name": "Walker",
+    "email": "jessica.walker@yahoo.com",
+    "phone": "+1-214-133-7621",
+    "address": {
+      "street": "882 Maple Dr",
+      "city": "Phoenix",
+      "state": "PA",
+      "zip_code": "25148",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2024-01-23",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000016",
+    "first_name": "Christine",
+    "last_name": "Allen",
+    "email": "christine.allen@hotmail.com",
+    "phone": "+1-697-588-3406",
+    "address": {
+      "street": "8369 Maple Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "73041",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2023-08-19",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000017",
+    "first_name": "Kevin",
+    "last_name": "Lee",
+    "email": "kevin.lee@outlook.com",
+    "phone": "+1-742-615-2369",
+    "address": {
+      "street": "9463 Cedar Ln",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "40565",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2023-08-05",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000018",
+    "first_name": "Thomas",
+    "last_name": "Green",
+    "email": "thomas.green@gmail.com",
+    "phone": "+1-815-732-6292",
+    "address": {
+      "street": "7393 Elm St",
+      "city": "New York",
+      "state": "AZ",
+      "zip_code": "53197",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2024-11-18",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000019",
+    "first_name": "Nicole",
+    "last_name": "Allen",
+    "email": "nicole.allen@company.com",
+    "phone": "+1-651-587-4404",
+    "address": {
+      "street": "6309 Pine Rd",
+      "city": "Los Angeles",
+      "state": "PA",
+      "zip_code": "26848",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2024-04-20",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000020",
+    "first_name": "Laura",
+    "last_name": "Garcia",
+    "email": "laura.garcia@yahoo.com",
+    "phone": "+1-522-855-2915",
+    "address": {
+      "street": "9948 Maple Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "13192",
+      "country": "USA"
+    },
+    "company": "TechCorp",
+    "registration_date": "2024-05-01",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000021",
+    "first_name": "Ashley",
+    "last_name": "Wright",
+    "email": "ashley.wright@gmail.com",
+    "phone": "+1-900-653-3648",
+    "address": {
+      "street": "486 Pine Rd",
+      "city": "New York",
+      "state": "AZ",
+      "zip_code": "68799",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2023-09-25",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000022",
+    "first_name": "Ashley",
+    "last_name": "Robinson",
+    "email": "ashley.robinson@hotmail.com",
+    "phone": "+1-948-950-5009",
+    "address": {
+      "street": "4369 Elm St",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip_code": "98350",
+      "country": "USA"
+    },
+    "company": "SafeNet",
+    "registration_date": "2025-01-22",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000023",
+    "first_name": "Nicole",
+    "last_name": "Gonzalez",
+    "email": "nicole.gonzalez@company.com",
+    "phone": "+1-265-904-8594",
+    "address": {
+      "street": "9602 Maple Dr",
+      "city": "Philadelphia",
+      "state": "AZ",
+      "zip_code": "33344",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2023-09-19",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000024",
+    "first_name": "Anthony",
+    "last_name": "Torres",
+    "email": "anthony.torres@outlook.com",
+    "phone": "+1-249-644-9934",
+    "address": {
+      "street": "6665 Elm St",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "99183",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2024-03-25",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000025",
+    "first_name": "Brian",
+    "last_name": "Smith",
+    "email": "brian.smith@gmail.com",
+    "phone": "+1-249-260-7120",
+    "address": {
+      "street": "4836 Pine Rd",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "19019",
+      "country": "USA"
+    },
+    "company": "SafeNet",
+    "registration_date": "2023-10-29",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000026",
+    "first_name": "Kenneth",
+    "last_name": "Moore",
+    "email": "kenneth.moore@hotmail.com",
+    "phone": "+1-999-207-4573",
+    "address": {
+      "street": "5574 Maple Dr",
+      "city": "Philadelphia",
+      "state": "IL",
+      "zip_code": "65579",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2024-12-03",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000027",
+    "first_name": "Matthew",
+    "last_name": "Rodriguez",
+    "email": "matthew.rodriguez@outlook.com",
+    "phone": "+1-449-273-5511",
+    "address": {
+      "street": "4306 Maple Dr",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "23861",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2022-12-24",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000028",
+    "first_name": "Kenneth",
+    "last_name": "Lopez",
+    "email": "kenneth.lopez@gmail.com",
+    "phone": "+1-517-763-7132",
+    "address": {
+      "street": "4276 Pine Rd",
+      "city": "Phoenix",
+      "state": "IL",
+      "zip_code": "75681",
+      "country": "USA"
+    },
+    "company": "InfoSecure",
+    "registration_date": "2023-10-16",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000029",
+    "first_name": "Brian",
+    "last_name": "Harris",
+    "email": "brian.harris@yahoo.com",
+    "phone": "+1-278-817-3904",
+    "address": {
+      "street": "6987 Elm St",
+      "city": "Houston",
+      "state": "AZ",
+      "zip_code": "40512",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-06-15",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000030",
+    "first_name": "David",
+    "last_name": "Lewis",
+    "email": "david.lewis@yahoo.com",
+    "phone": "+1-603-279-6887",
+    "address": {
+      "street": "7986 Maple Dr",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "25681",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2025-03-03",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000031",
+    "first_name": "Thomas",
+    "last_name": "Williams",
+    "email": "thomas.williams@outlook.com",
+    "phone": "+1-577-599-8054",
+    "address": {
+      "street": "8111 Maple Dr",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "37831",
+      "country": "USA"
+    },
+    "company": "SafeNet",
+    "registration_date": "2023-07-07",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000032",
+    "first_name": "Christopher",
+    "last_name": "Moore",
+    "email": "christopher.moore@hotmail.com",
+    "phone": "+1-999-939-8576",
+    "address": {
+      "street": "1896 Pine Rd",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip_code": "47450",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2024-09-05",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000033",
+    "first_name": "Robert",
+    "last_name": "Thomas",
+    "email": "robert.thomas@hotmail.com",
+    "phone": "+1-558-402-7809",
+    "address": {
+      "street": "947 Cedar Ln",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "39678",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2023-03-06",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000034",
+    "first_name": "Kenneth",
+    "last_name": "Smith",
+    "email": "kenneth.smith@company.com",
+    "phone": "+1-215-609-2679",
+    "address": {
+      "street": "7764 Pine Rd",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "85085",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2023-05-10",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000035",
+    "first_name": "Kevin",
+    "last_name": "Young",
+    "email": "kevin.young@hotmail.com",
+    "phone": "+1-867-934-1998",
+    "address": {
+      "street": "7827 Elm St",
+      "city": "Philadelphia",
+      "state": "CA",
+      "zip_code": "72813",
+      "country": "USA"
+    },
+    "company": "InfoSecure",
+    "registration_date": "2023-07-07",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000036",
+    "first_name": "Lauren",
+    "last_name": "Green",
+    "email": "lauren.green@hotmail.com",
+    "phone": "+1-575-106-6493",
+    "address": {
+      "street": "9315 Oak Ave",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "83202",
+      "country": "USA"
+    },
+    "company": "TechCorp",
+    "registration_date": "2024-02-20",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000037",
+    "first_name": "Nicole",
+    "last_name": "King",
+    "email": "nicole.king@outlook.com",
+    "phone": "+1-279-369-6725",
+    "address": {
+      "street": "4161 Pine Rd",
+      "city": "Houston",
+      "state": "AZ",
+      "zip_code": "57867",
+      "country": "USA"
+    },
+    "company": "SecureSys",
+    "registration_date": "2023-11-11",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000038",
+    "first_name": "Steven",
+    "last_name": "Rodriguez",
+    "email": "steven.rodriguez@hotmail.com",
+    "phone": "+1-579-605-6741",
+    "address": {
+      "street": "9600 Cedar Ln",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "11179",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2024-03-20",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000039",
+    "first_name": "David",
+    "last_name": "Smith",
+    "email": "david.smith@company.com",
+    "phone": "+1-748-469-5541",
+    "address": {
+      "street": "2314 Cedar Ln",
+      "city": "Phoenix",
+      "state": "NY",
+      "zip_code": "22044",
+      "country": "USA"
+    },
+    "company": "SafeData",
+    "registration_date": "2023-10-08",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000040",
+    "first_name": "Robert",
+    "last_name": "Lewis",
+    "email": "robert.lewis@hotmail.com",
+    "phone": "+1-328-778-1679",
+    "address": {
+      "street": "6029 Oak Ave",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip_code": "50913",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2025-01-04",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000041",
+    "first_name": "Robert",
+    "last_name": "Wright",
+    "email": "robert.wright@hotmail.com",
+    "phone": "+1-944-391-6636",
+    "address": {
+      "street": "180 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "60240",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2024-09-09",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000042",
+    "first_name": "Thomas",
+    "last_name": "Smith",
+    "email": "thomas.smith@outlook.com",
+    "phone": "+1-858-787-9032",
+    "address": {
+      "street": "6242 Oak Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "70878",
+      "country": "USA"
+    },
+    "company": "SafeNet",
+    "registration_date": "2023-04-04",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000043",
+    "first_name": "Lauren",
+    "last_name": "Brown",
+    "email": "lauren.brown@yahoo.com",
+    "phone": "+1-747-445-5076",
+    "address": {
+      "street": "1923 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "39222",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2024-02-28",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000044",
+    "first_name": "Stephanie",
+    "last_name": "Wilson",
+    "email": "stephanie.wilson@hotmail.com",
+    "phone": "+1-443-654-1380",
+    "address": {
+      "street": "3415 Elm St",
+      "city": "New York",
+      "state": "CA",
+      "zip_code": "92947",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2023-09-24",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000045",
+    "first_name": "Anthony",
+    "last_name": "King",
+    "email": "anthony.king@company.com",
+    "phone": "+1-967-961-6292",
+    "address": {
+      "street": "3816 Main St",
+      "city": "Philadelphia",
+      "state": "AZ",
+      "zip_code": "41443",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2025-02-17",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000046",
+    "first_name": "Joshua",
+    "last_name": "Smith",
+    "email": "joshua.smith@outlook.com",
+    "phone": "+1-803-585-4274",
+    "address": {
+      "street": "7696 Maple Dr",
+      "city": "Philadelphia",
+      "state": "AZ",
+      "zip_code": "65876",
+      "country": "USA"
+    },
+    "company": "TechCorp",
+    "registration_date": "2023-03-07",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000047",
+    "first_name": "Daniel",
+    "last_name": "Lopez",
+    "email": "daniel.lopez@outlook.com",
+    "phone": "+1-678-102-2783",
+    "address": {
+      "street": "8917 Pine Rd",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "82503",
+      "country": "USA"
+    },
+    "company": "SafeData",
+    "registration_date": "2024-05-11",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000048",
+    "first_name": "Melissa",
+    "last_name": "Gonzalez",
+    "email": "melissa.gonzalez@outlook.com",
+    "phone": "+1-537-711-9452",
+    "address": {
+      "street": "4302 Maple Dr",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "23400",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2023-10-05",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000049",
+    "first_name": "David",
+    "last_name": "Rodriguez",
+    "email": "david.rodriguez@yahoo.com",
+    "phone": "+1-738-564-9150",
+    "address": {
+      "street": "8043 Pine Rd",
+      "city": "Phoenix",
+      "state": "PA",
+      "zip_code": "23772",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2025-01-02",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000050",
+    "first_name": "Amanda",
+    "last_name": "Robinson",
+    "email": "amanda.robinson@outlook.com",
+    "phone": "+1-928-147-8116",
+    "address": {
+      "street": "6692 Oak Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "89250",
+      "country": "USA"
+    },
+    "company": "NetSecure",
+    "registration_date": "2024-10-08",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000051",
+    "first_name": "Kenneth",
+    "last_name": "Thomas",
+    "email": "kenneth.thomas@yahoo.com",
+    "phone": "+1-562-934-1635",
+    "address": {
+      "street": "4884 Cedar Ln",
+      "city": "Chicago",
+      "state": "PA",
+      "zip_code": "18283",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2023-05-09",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000052",
+    "first_name": "Melissa",
+    "last_name": "Allen",
+    "email": "melissa.allen@yahoo.com",
+    "phone": "+1-352-597-4613",
+    "address": {
+      "street": "2837 Oak Ave",
+      "city": "Chicago",
+      "state": "PA",
+      "zip_code": "51546",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2023-09-24",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000053",
+    "first_name": "Laura",
+    "last_name": "Hernandez",
+    "email": "laura.hernandez@gmail.com",
+    "phone": "+1-848-462-6064",
+    "address": {
+      "street": "2608 Cedar Ln",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "45611",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2023-04-22",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000054",
+    "first_name": "Jennifer",
+    "last_name": "Nguyen",
+    "email": "jennifer.nguyen@hotmail.com",
+    "phone": "+1-718-135-5797",
+    "address": {
+      "street": "8574 Maple Dr",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip_code": "28970",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2024-01-05",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000055",
+    "first_name": "Kimberly",
+    "last_name": "Johnson",
+    "email": "kimberly.johnson@hotmail.com",
+    "phone": "+1-553-486-6457",
+    "address": {
+      "street": "7068 Oak Ave",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "14048",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2023-04-12",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000056",
+    "first_name": "David",
+    "last_name": "Thompson",
+    "email": "david.thompson@yahoo.com",
+    "phone": "+1-980-360-7804",
+    "address": {
+      "street": "2200 Pine Rd",
+      "city": "Phoenix",
+      "state": "TX",
+      "zip_code": "95546",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2024-01-02",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000057",
+    "first_name": "Rachel",
+    "last_name": "Scott",
+    "email": "rachel.scott@gmail.com",
+    "phone": "+1-968-783-1194",
+    "address": {
+      "street": "7713 Elm St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "80848",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2025-06-21",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000058",
+    "first_name": "Daniel",
+    "last_name": "Walker",
+    "email": "daniel.walker@company.com",
+    "phone": "+1-318-157-2994",
+    "address": {
+      "street": "5187 Oak Ave",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "59687",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-01-17",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000059",
+    "first_name": "Elizabeth",
+    "last_name": "Taylor",
+    "email": "elizabeth.taylor@yahoo.com",
+    "phone": "+1-794-143-3943",
+    "address": {
+      "street": "1738 Pine Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "75310",
+      "country": "USA"
+    },
+    "company": "NetSecure",
+    "registration_date": "2023-03-19",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000060",
+    "first_name": "Laura",
+    "last_name": "Smith",
+    "email": "laura.smith@yahoo.com",
+    "phone": "+1-435-167-7964",
+    "address": {
+      "street": "4517 Elm St",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "87998",
+      "country": "USA"
+    },
+    "company": "SecureSys",
+    "registration_date": "2023-03-02",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000061",
+    "first_name": "Lisa",
+    "last_name": "Martinez",
+    "email": "lisa.martinez@outlook.com",
+    "phone": "+1-334-171-1410",
+    "address": {
+      "street": "7493 Main St",
+      "city": "New York",
+      "state": "AZ",
+      "zip_code": "25080",
+      "country": "USA"
+    },
+    "company": "NetProtect",
+    "registration_date": "2023-02-09",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000062",
+    "first_name": "Brian",
+    "last_name": "Young",
+    "email": "brian.young@company.com",
+    "phone": "+1-279-637-8967",
+    "address": {
+      "street": "7398 Cedar Ln",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "37694",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-12-31",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000063",
+    "first_name": "John",
+    "last_name": "Harris",
+    "email": "john.harris@yahoo.com",
+    "phone": "+1-330-396-6150",
+    "address": {
+      "street": "9195 Oak Ave",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "96964",
+      "country": "USA"
+    },
+    "company": "SafeNet",
+    "registration_date": "2025-02-09",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000064",
+    "first_name": "Michelle",
+    "last_name": "Clark",
+    "email": "michelle.clark@yahoo.com",
+    "phone": "+1-785-965-7980",
+    "address": {
+      "street": "1372 Maple Dr",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "15309",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2024-06-09",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000065",
+    "first_name": "Andrew",
+    "last_name": "Jackson",
+    "email": "andrew.jackson@company.com",
+    "phone": "+1-992-498-8919",
+    "address": {
+      "street": "4390 Pine Rd",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "63779",
+      "country": "USA"
+    },
+    "company": "NetProtect",
+    "registration_date": "2024-04-25",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000066",
+    "first_name": "Heather",
+    "last_name": "Wright",
+    "email": "heather.wright@company.com",
+    "phone": "+1-844-349-9581",
+    "address": {
+      "street": "8794 Oak Ave",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "19258",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2023-01-29",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000067",
+    "first_name": "Michael",
+    "last_name": "Clark",
+    "email": "michael.clark@outlook.com",
+    "phone": "+1-225-852-2772",
+    "address": {
+      "street": "9267 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "91849",
+      "country": "USA"
+    },
+    "company": "NetSecure",
+    "registration_date": "2024-04-01",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000068",
+    "first_name": "Elizabeth",
+    "last_name": "Clark",
+    "email": "elizabeth.clark@hotmail.com",
+    "phone": "+1-900-837-7601",
+    "address": {
+      "street": "4200 Maple Dr",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip_code": "70699",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-01-29",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000069",
+    "first_name": "Kenneth",
+    "last_name": "Nguyen",
+    "email": "kenneth.nguyen@hotmail.com",
+    "phone": "+1-787-421-8044",
+    "address": {
+      "street": "6316 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "64381",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2024-12-16",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000070",
+    "first_name": "Thomas",
+    "last_name": "Williams",
+    "email": "thomas.williams@outlook.com",
+    "phone": "+1-473-170-2623",
+    "address": {
+      "street": "1849 Pine Rd",
+      "city": "Houston",
+      "state": "PA",
+      "zip_code": "24360",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2024-05-28",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000071",
+    "first_name": "Michael",
+    "last_name": "Flores",
+    "email": "michael.flores@hotmail.com",
+    "phone": "+1-326-537-8834",
+    "address": {
+      "street": "6476 Pine Rd",
+      "city": "Houston",
+      "state": "CA",
+      "zip_code": "77970",
+      "country": "USA"
+    },
+    "company": "SecureSys",
+    "registration_date": "2025-06-08",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000072",
+    "first_name": "Kevin",
+    "last_name": "Wilson",
+    "email": "kevin.wilson@company.com",
+    "phone": "+1-815-609-2987",
+    "address": {
+      "street": "906 Main St",
+      "city": "Phoenix",
+      "state": "NY",
+      "zip_code": "16148",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2025-05-25",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000073",
+    "first_name": "Nicole",
+    "last_name": "Torres",
+    "email": "nicole.torres@hotmail.com",
+    "phone": "+1-780-543-4438",
+    "address": {
+      "street": "5470 Oak Ave",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip_code": "40991",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2024-01-02",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000074",
+    "first_name": "Michael",
+    "last_name": "Torres",
+    "email": "michael.torres@outlook.com",
+    "phone": "+1-317-906-8246",
+    "address": {
+      "street": "4250 Main St",
+      "city": "Philadelphia",
+      "state": "NY",
+      "zip_code": "25561",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-10-08",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000075",
+    "first_name": "Amanda",
+    "last_name": "Lopez",
+    "email": "amanda.lopez@hotmail.com",
+    "phone": "+1-485-969-3533",
+    "address": {
+      "street": "2396 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "76393",
+      "country": "USA"
+    },
+    "company": "SafeData",
+    "registration_date": "2025-03-10",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000076",
+    "first_name": "Stephanie",
+    "last_name": "Perez",
+    "email": "stephanie.perez@gmail.com",
+    "phone": "+1-233-769-2058",
+    "address": {
+      "street": "1206 Maple Dr",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "90883",
+      "country": "USA"
+    },
+    "company": "DigitalEdge",
+    "registration_date": "2024-07-26",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000077",
+    "first_name": "Kenneth",
+    "last_name": "Scott",
+    "email": "kenneth.scott@yahoo.com",
+    "phone": "+1-700-656-2432",
+    "address": {
+      "street": "706 Elm St",
+      "city": "Los Angeles",
+      "state": "PA",
+      "zip_code": "45679",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2022-11-29",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000078",
+    "first_name": "Donald",
+    "last_name": "Brown",
+    "email": "donald.brown@company.com",
+    "phone": "+1-808-965-9205",
+    "address": {
+      "street": "7554 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "47499",
+      "country": "USA"
+    },
+    "company": "CyberSafe",
+    "registration_date": "2024-09-09",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000079",
+    "first_name": "Richard",
+    "last_name": "Brown",
+    "email": "richard.brown@yahoo.com",
+    "phone": "+1-366-848-3698",
+    "address": {
+      "street": "4409 Main St",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip_code": "15606",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2025-06-01",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000080",
+    "first_name": "Daniel",
+    "last_name": "Clark",
+    "email": "daniel.clark@hotmail.com",
+    "phone": "+1-946-829-6698",
+    "address": {
+      "street": "9632 Maple Dr",
+      "city": "Houston",
+      "state": "IL",
+      "zip_code": "77689",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2024-10-21",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000081",
+    "first_name": "Jennifer",
+    "last_name": "Allen",
+    "email": "jennifer.allen@outlook.com",
+    "phone": "+1-496-939-4003",
+    "address": {
+      "street": "3809 Elm St",
+      "city": "Chicago",
+      "state": "NY",
+      "zip_code": "47097",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2025-07-08",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000082",
+    "first_name": "Anthony",
+    "last_name": "Miller",
+    "email": "anthony.miller@hotmail.com",
+    "phone": "+1-222-406-9912",
+    "address": {
+      "street": "8003 Main St",
+      "city": "Houston",
+      "state": "NY",
+      "zip_code": "16851",
+      "country": "USA"
+    },
+    "company": "CyberSafe",
+    "registration_date": "2024-02-08",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000083",
+    "first_name": "Stephanie",
+    "last_name": "King",
+    "email": "stephanie.king@company.com",
+    "phone": "+1-871-920-6448",
+    "address": {
+      "street": "2700 Maple Dr",
+      "city": "Chicago",
+      "state": "TX",
+      "zip_code": "64044",
+      "country": "USA"
+    },
+    "company": "TechCorp",
+    "registration_date": "2023-02-19",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000084",
+    "first_name": "Daniel",
+    "last_name": "Lee",
+    "email": "daniel.lee@yahoo.com",
+    "phone": "+1-675-871-8371",
+    "address": {
+      "street": "7052 Oak Ave",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "96986",
+      "country": "USA"
+    },
+    "company": "CyberSafe",
+    "registration_date": "2024-05-17",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000085",
+    "first_name": "Kevin",
+    "last_name": "Torres",
+    "email": "kevin.torres@outlook.com",
+    "phone": "+1-276-126-5663",
+    "address": {
+      "street": "5856 Oak Ave",
+      "city": "Philadelphia",
+      "state": "AZ",
+      "zip_code": "70236",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2025-06-09",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000086",
+    "first_name": "Jennifer",
+    "last_name": "Green",
+    "email": "jennifer.green@gmail.com",
+    "phone": "+1-982-965-8874",
+    "address": {
+      "street": "2507 Pine Rd",
+      "city": "Chicago",
+      "state": "AZ",
+      "zip_code": "55713",
+      "country": "USA"
+    },
+    "company": "SecureSys",
+    "registration_date": "2022-11-27",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000087",
+    "first_name": "Emily",
+    "last_name": "Flores",
+    "email": "emily.flores@outlook.com",
+    "phone": "+1-642-787-4181",
+    "address": {
+      "street": "6797 Pine Rd",
+      "city": "New York",
+      "state": "PA",
+      "zip_code": "16527",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2024-12-17",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000088",
+    "first_name": "Steven",
+    "last_name": "Taylor",
+    "email": "steven.taylor@gmail.com",
+    "phone": "+1-645-870-5834",
+    "address": {
+      "street": "5612 Pine Rd",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "77555",
+      "country": "USA"
+    },
+    "company": "InfoSecure",
+    "registration_date": "2025-05-28",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000089",
+    "first_name": "Melissa",
+    "last_name": "Scott",
+    "email": "melissa.scott@outlook.com",
+    "phone": "+1-246-273-2772",
+    "address": {
+      "street": "2125 Main St",
+      "city": "Phoenix",
+      "state": "CA",
+      "zip_code": "29258",
+      "country": "USA"
+    },
+    "company": "TrustNet",
+    "registration_date": "2023-05-20",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000090",
+    "first_name": "Robert",
+    "last_name": "Jackson",
+    "email": "robert.jackson@company.com",
+    "phone": "+1-845-833-8738",
+    "address": {
+      "street": "6976 Cedar Ln",
+      "city": "Chicago",
+      "state": "CA",
+      "zip_code": "45282",
+      "country": "USA"
+    },
+    "company": "SecureFlow",
+    "registration_date": "2022-12-27",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000091",
+    "first_name": "Christopher",
+    "last_name": "Thompson",
+    "email": "christopher.thompson@hotmail.com",
+    "phone": "+1-234-237-3137",
+    "address": {
+      "street": "2069 Oak Ave",
+      "city": "Houston",
+      "state": "PA",
+      "zip_code": "59279",
+      "country": "USA"
+    },
+    "company": "SecureSys",
+    "registration_date": "2023-12-28",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000092",
+    "first_name": "Elizabeth",
+    "last_name": "Anderson",
+    "email": "elizabeth.anderson@company.com",
+    "phone": "+1-219-939-5859",
+    "address": {
+      "street": "9467 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "72590",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2023-10-11",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000093",
+    "first_name": "Michael",
+    "last_name": "Torres",
+    "email": "michael.torres@gmail.com",
+    "phone": "+1-916-207-4503",
+    "address": {
+      "street": "5423 Elm St",
+      "city": "Los Angeles",
+      "state": "NY",
+      "zip_code": "46630",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2023-07-20",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000094",
+    "first_name": "Steven",
+    "last_name": "Young",
+    "email": "steven.young@hotmail.com",
+    "phone": "+1-755-672-6879",
+    "address": {
+      "street": "2715 Pine Rd",
+      "city": "Philadelphia",
+      "state": "NY",
+      "zip_code": "49279",
+      "country": "USA"
+    },
+    "company": "DataGuard",
+    "registration_date": "2025-03-13",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000095",
+    "first_name": "Christine",
+    "last_name": "Rodriguez",
+    "email": "christine.rodriguez@outlook.com",
+    "phone": "+1-945-379-4853",
+    "address": {
+      "street": "3280 Maple Dr",
+      "city": "Philadelphia",
+      "state": "IL",
+      "zip_code": "88269",
+      "country": "USA"
+    },
+    "company": "CyberNet",
+    "registration_date": "2025-05-12",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000096",
+    "first_name": "Andrew",
+    "last_name": "Walker",
+    "email": "andrew.walker@outlook.com",
+    "phone": "+1-518-807-8794",
+    "address": {
+      "street": "7573 Oak Ave",
+      "city": "Houston",
+      "state": "AZ",
+      "zip_code": "77113",
+      "country": "USA"
+    },
+    "company": "DataFlow",
+    "registration_date": "2025-06-12",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000097",
+    "first_name": "Heather",
+    "last_name": "King",
+    "email": "heather.king@hotmail.com",
+    "phone": "+1-752-963-9326",
+    "address": {
+      "street": "4492 Pine Rd",
+      "city": "Philadelphia",
+      "state": "TX",
+      "zip_code": "45328",
+      "country": "USA"
+    },
+    "company": "CloudTech",
+    "registration_date": "2023-09-24",
+    "status": "suspended",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "two_factor_auth": true
+    }
+  },
+  {
+    "customer_id": "CUST-000098",
+    "first_name": "Ashley",
+    "last_name": "Martin",
+    "email": "ashley.martin@yahoo.com",
+    "phone": "+1-380-722-7712",
+    "address": {
+      "street": "9359 Oak Ave",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "63953",
+      "country": "USA"
+    },
+    "company": "TrustTech",
+    "registration_date": "2025-07-14",
+    "status": "active",
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000099",
+    "first_name": "Christopher",
+    "last_name": "Gonzalez",
+    "email": "christopher.gonzalez@yahoo.com",
+    "phone": "+1-411-877-3833",
+    "address": {
+      "street": "4200 Cedar Ln",
+      "city": "Los Angeles",
+      "state": "IL",
+      "zip_code": "50290",
+      "country": "USA"
+    },
+    "company": "InfoGuard",
+    "registration_date": "2024-02-13",
+    "status": "active",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  },
+  {
+    "customer_id": "CUST-000100",
+    "first_name": "Andrew",
+    "last_name": "Walker",
+    "email": "andrew.walker@yahoo.com",
+    "phone": "+1-860-791-4601",
+    "address": {
+      "street": "9177 Main St",
+      "city": "Los Angeles",
+      "state": "TX",
+      "zip_code": "13656",
+      "country": "USA"
+    },
+    "company": "GlobalSoft",
+    "registration_date": "2024-05-05",
+    "status": "inactive",
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "two_factor_auth": false
+    }
+  }
+]
