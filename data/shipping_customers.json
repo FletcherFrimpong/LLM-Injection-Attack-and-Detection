@@ -1,0 +1,292 @@
+[
+  {
+    "customer_id": "CUST-575857061",
+    "customer_name": "TechCorp Solutions",
+    "account_type": "business",
+    "contact_person": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1-555-0123",
+    "address": {
+      "street": "123 Innovation Drive",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "FedEx",
+      "service_level": "express",
+      "signature_required": true,
+      "insurance_default": 2500.00,
+      "special_handling": "fragile electronics"
+    },
+    "account_status": "active",
+    "credit_limit": 50000.00,
+    "payment_terms": "net_30",
+    "created_date": "2023-01-15",
+    "last_shipment": "2025-01-21",
+    "total_shipments": 156,
+    "average_shipment_value": 2800.00
+  },
+  {
+    "customer_id": "CUST-663668471",
+    "customer_name": "Fashion Forward Ltd",
+    "account_type": "business",
+    "contact_person": "Michael Chen",
+    "email": "michael.chen@fashionforward.com",
+    "phone": "+1-555-0456",
+    "address": {
+      "street": "789 Fashion Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "UPS",
+      "service_level": "ground",
+      "signature_required": false,
+      "insurance_default": 1200.00,
+      "special_handling": "keep dry"
+    },
+    "account_status": "active",
+    "credit_limit": 25000.00,
+    "payment_terms": "net_15",
+    "created_date": "2023-03-22",
+    "last_shipment": "2025-02-20",
+    "total_shipments": 89,
+    "average_shipment_value": 1500.00
+  },
+  {
+    "customer_id": "CUST-111723511",
+    "customer_name": "Medical Supplies Co",
+    "account_type": "business",
+    "contact_person": "Dr. Emily Rodriguez",
+    "email": "emily.rodriguez@medsupplies.com",
+    "phone": "+1-555-0789",
+    "address": {
+      "street": "555 Healthcare Way",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02101",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "DHL",
+      "service_level": "overnight",
+      "signature_required": true,
+      "insurance_default": 8500.00,
+      "special_handling": "temperature controlled"
+    },
+    "account_status": "active",
+    "credit_limit": 100000.00,
+    "payment_terms": "net_30",
+    "created_date": "2022-11-08",
+    "last_shipment": "2025-05-10",
+    "total_shipments": 234,
+    "average_shipment_value": 7500.00
+  },
+  {
+    "customer_id": "CUST-362522345",
+    "customer_name": "Auto Parts Warehouse",
+    "account_type": "business",
+    "contact_person": "Robert Wilson",
+    "email": "robert.wilson@autoparts.com",
+    "phone": "+1-555-0321",
+    "address": {
+      "street": "999 Industrial Park Road",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48201",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "FedEx",
+      "service_level": "ground",
+      "signature_required": false,
+      "insurance_default": 3200.00,
+      "special_handling": "lift gate delivery"
+    },
+    "account_status": "active",
+    "credit_limit": 75000.00,
+    "payment_terms": "net_30",
+    "created_date": "2023-06-14",
+    "last_shipment": "2025-03-25",
+    "total_shipments": 445,
+    "average_shipment_value": 2800.00
+  },
+  {
+    "customer_id": "CUST-488153757",
+    "customer_name": "Bookstore Online",
+    "account_type": "business",
+    "contact_person": "Lisa Thompson",
+    "email": "lisa.thompson@bookstore.com",
+    "phone": "+1-555-0654",
+    "address": {
+      "street": "222 Literary Lane",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "USPS",
+      "service_level": "media_mail",
+      "signature_required": false,
+      "insurance_default": 50.00,
+      "special_handling": "handle with care"
+    },
+    "account_status": "active",
+    "credit_limit": 15000.00,
+    "payment_terms": "net_15",
+    "created_date": "2023-08-03",
+    "last_shipment": "2024-10-20",
+    "total_shipments": 1234,
+    "average_shipment_value": 45.00
+  },
+  {
+    "customer_id": "CUST-893018511",
+    "customer_name": "Art Gallery International",
+    "account_type": "business",
+    "contact_person": "David Martinez",
+    "email": "david.martinez@artgallery.com",
+    "phone": "+1-555-0987",
+    "address": {
+      "street": "888 Creative Circle",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33101",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "Fine Art Shippers",
+      "service_level": "white_glove",
+      "signature_required": true,
+      "insurance_default": 15000.00,
+      "special_handling": "climate controlled"
+    },
+    "account_status": "active",
+    "credit_limit": 200000.00,
+    "payment_terms": "net_30",
+    "created_date": "2022-05-12",
+    "last_shipment": "2025-01-30",
+    "total_shipments": 67,
+    "average_shipment_value": 18000.00
+  },
+  {
+    "customer_id": "CUST-795767183",
+    "customer_name": "Fresh Foods Market",
+    "account_type": "business",
+    "contact_person": "Jennifer Lee",
+    "email": "jennifer.lee@freshfoods.com",
+    "phone": "+1-555-0123",
+    "address": {
+      "street": "333 Farm Road",
+      "city": "Salinas",
+      "state": "CA",
+      "zip": "93901",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "Specialty Carriers",
+      "service_level": "refrigerated",
+      "signature_required": true,
+      "insurance_default": 800.00,
+      "special_handling": "maintain 40°F"
+    },
+    "account_status": "active",
+    "credit_limit": 35000.00,
+    "payment_terms": "net_15",
+    "created_date": "2023-09-18",
+    "last_shipment": "2024-07-19",
+    "total_shipments": 567,
+    "average_shipment_value": 750.00
+  },
+  {
+    "customer_id": "CUST-231130307",
+    "customer_name": "Electronics Warehouse",
+    "account_type": "business",
+    "contact_person": "Alex Kim",
+    "email": "alex.kim@electronics.com",
+    "phone": "+1-555-0456",
+    "address": {
+      "street": "666 Circuit Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "73301",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "FedEx",
+      "service_level": "express",
+      "signature_required": true,
+      "insurance_default": 4800.00,
+      "special_handling": "no signature release"
+    },
+    "account_status": "active",
+    "credit_limit": 80000.00,
+    "payment_terms": "net_30",
+    "created_date": "2023-02-28",
+    "last_shipment": "2025-05-02",
+    "total_shipments": 789,
+    "average_shipment_value": 4200.00
+  },
+  {
+    "customer_id": "CUST-319520433",
+    "customer_name": "Jewelry Design Studio",
+    "account_type": "business",
+    "contact_person": "Sophia Anderson",
+    "email": "sophia.anderson@jewelrystudio.com",
+    "phone": "+1-555-0789",
+    "address": {
+      "street": "777 Diamond Way",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "Brinks",
+      "service_level": "secure_express",
+      "signature_required": true,
+      "insurance_default": 25000.00,
+      "special_handling": "armed escort"
+    },
+    "account_status": "active",
+    "credit_limit": 500000.00,
+    "payment_terms": "net_30",
+    "created_date": "2022-12-05",
+    "last_shipment": "2025-02-01",
+    "total_shipments": 34,
+    "average_shipment_value": 30000.00
+  },
+  {
+    "customer_id": "CUST-382904803",
+    "customer_name": "Sports Equipment Co",
+    "account_type": "business",
+    "contact_person": "Chris Taylor",
+    "email": "chris.taylor@sportsequipment.com",
+    "phone": "+1-555-0321",
+    "address": {
+      "street": "444 Athletic Drive",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97201",
+      "country": "USA"
+    },
+    "shipping_preferences": {
+      "preferred_carrier": "UPS",
+      "service_level": "ground",
+      "signature_required": false,
+      "insurance_default": 2800.00,
+      "special_handling": "no stacking"
+    },
+    "account_status": "active",
+    "credit_limit": 40000.00,
+    "payment_terms": "net_30",
+    "created_date": "2023-04-11",
+    "last_shipment": "2025-01-12",
+    "total_shipments": 234,
+    "average_shipment_value": 2500.00
+  }
+] 

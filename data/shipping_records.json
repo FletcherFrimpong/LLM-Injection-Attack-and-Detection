@@ -1,0 +1,362 @@
+[
+  {
+    "shipment_id": "SHP-20250719-000001",
+    "tracking_number": "1Z999AA1234567890",
+    "customer_id": "CUST-575857061",
+    "shipper_name": "TechCorp Solutions",
+    "recipient_name": "Global Electronics Inc",
+    "origin_address": {
+      "street": "123 Innovation Drive",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "456 Business Blvd",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 15.5,
+      "dimensions": "24x18x12",
+      "package_count": 3,
+      "declared_value": 2500.00
+    },
+    "service_type": "express",
+    "carrier": "FedEx",
+    "shipping_date": "2025-01-21 15:51:06",
+    "estimated_delivery": "2025-01-23 18:00:00",
+    "actual_delivery": null,
+    "status": "in_transit",
+    "shipping_cost": 89.99,
+    "insurance_amount": 2500.00,
+    "special_instructions": "Handle with care - fragile electronics"
+  },
+  {
+    "shipment_id": "SHP-20250719-000002",
+    "tracking_number": "1Z999AA1234567891",
+    "customer_id": "CUST-663668471",
+    "shipper_name": "Fashion Forward Ltd",
+    "recipient_name": "Style Boutique",
+    "origin_address": {
+      "street": "789 Fashion Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "321 Retail Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 8.2,
+      "dimensions": "20x16x8",
+      "package_count": 1,
+      "declared_value": 1200.00
+    },
+    "service_type": "ground",
+    "carrier": "UPS",
+    "shipping_date": "2025-02-20 15:51:06",
+    "estimated_delivery": "2025-02-25 18:00:00",
+    "actual_delivery": "2025-02-24 14:30:00",
+    "status": "delivered",
+    "shipping_cost": 45.50,
+    "insurance_amount": 1200.00,
+    "special_instructions": "Keep dry - clothing items"
+  },
+  {
+    "shipment_id": "SHP-20250719-000003",
+    "tracking_number": "1Z999AA1234567892",
+    "customer_id": "CUST-111723511",
+    "shipper_name": "Medical Supplies Co",
+    "recipient_name": "City General Hospital",
+    "origin_address": {
+      "street": "555 Healthcare Way",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02101",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "777 Medical Center Drive",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19102",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 25.8,
+      "dimensions": "30x24x18",
+      "package_count": 5,
+      "declared_value": 8500.00
+    },
+    "service_type": "overnight",
+    "carrier": "DHL",
+    "shipping_date": "2025-05-10 15:51:06",
+    "estimated_delivery": "2025-05-11 10:00:00",
+    "actual_delivery": "2025-05-11 09:15:00",
+    "status": "delivered",
+    "shipping_cost": 125.00,
+    "insurance_amount": 8500.00,
+    "special_instructions": "URGENT - Medical supplies, temperature controlled"
+  },
+  {
+    "shipment_id": "SHP-20250719-000004",
+    "tracking_number": "1Z999AA1234567893",
+    "customer_id": "CUST-362522345",
+    "shipper_name": "Auto Parts Warehouse",
+    "recipient_name": "Quick Fix Garage",
+    "origin_address": {
+      "street": "999 Industrial Park Road",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48201",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "444 Mechanic Street",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77001",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 45.3,
+      "dimensions": "36x28x20",
+      "package_count": 2,
+      "declared_value": 3200.00
+    },
+    "service_type": "ground",
+    "carrier": "FedEx",
+    "shipping_date": "2025-03-25 15:51:06",
+    "estimated_delivery": "2025-03-30 18:00:00",
+    "actual_delivery": null,
+    "status": "delayed",
+    "shipping_cost": 78.25,
+    "insurance_amount": 3200.00,
+    "special_instructions": "Heavy items - use lift gate delivery"
+  },
+  {
+    "shipment_id": "SHP-20250719-000005",
+    "tracking_number": "1Z999AA1234567894",
+    "customer_id": "CUST-488153757",
+    "shipper_name": "Bookstore Online",
+    "recipient_name": "John Smith",
+    "origin_address": {
+      "street": "222 Literary Lane",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "111 Reader Road",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 2.1,
+      "dimensions": "12x9x3",
+      "package_count": 1,
+      "declared_value": 45.00
+    },
+    "service_type": "media_mail",
+    "carrier": "USPS",
+    "shipping_date": "2024-10-20 15:51:06",
+    "estimated_delivery": "2024-10-27 18:00:00",
+    "actual_delivery": "2024-10-26 16:45:00",
+    "status": "delivered",
+    "shipping_cost": 3.50,
+    "insurance_amount": 50.00,
+    "special_instructions": "Books - handle with care"
+  },
+  {
+    "shipment_id": "SHP-20250719-000006",
+    "tracking_number": "1Z999AA1234567895",
+    "customer_id": "CUST-893018511",
+    "shipper_name": "Art Gallery International",
+    "recipient_name": "Modern Art Museum",
+    "origin_address": {
+      "street": "888 Creative Circle",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33101",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "555 Culture Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 12.7,
+      "dimensions": "48x36x6",
+      "package_count": 1,
+      "declared_value": 15000.00
+    },
+    "service_type": "white_glove",
+    "carrier": "Fine Art Shippers",
+    "shipping_date": "2025-01-30 15:51:06",
+    "estimated_delivery": "2025-02-02 14:00:00",
+    "actual_delivery": "2025-02-02 13:30:00",
+    "status": "delivered",
+    "shipping_cost": 450.00,
+    "insurance_amount": 15000.00,
+    "special_instructions": "Priceless artwork - climate controlled, white glove service required"
+  },
+  {
+    "shipment_id": "SHP-20250719-000007",
+    "tracking_number": "1Z999AA1234567896",
+    "customer_id": "CUST-795767183",
+    "shipper_name": "Fresh Foods Market",
+    "recipient_name": "Organic Restaurant",
+    "origin_address": {
+      "street": "333 Farm Road",
+      "city": "Salinas",
+      "state": "CA",
+      "zip": "93901",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "777 Gourmet Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 18.9,
+      "dimensions": "24x20x16",
+      "package_count": 4,
+      "declared_value": 800.00
+    },
+    "service_type": "refrigerated",
+    "carrier": "Specialty Carriers",
+    "shipping_date": "2024-07-19 15:51:06",
+    "estimated_delivery": "2024-07-20 08:00:00",
+    "actual_delivery": "2024-07-20 07:45:00",
+    "status": "delivered",
+    "shipping_cost": 95.00,
+    "insurance_amount": 800.00,
+    "special_instructions": "Perishable items - maintain 40°F, deliver before 9 AM"
+  },
+  {
+    "shipment_id": "SHP-20250719-000008",
+    "tracking_number": "1Z999AA1234567897",
+    "customer_id": "CUST-231130307",
+    "shipper_name": "Electronics Warehouse",
+    "recipient_name": "Tech Store Downtown",
+    "origin_address": {
+      "street": "666 Circuit Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "73301",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "999 Tech Boulevard",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 22.4,
+      "dimensions": "28x22x14",
+      "package_count": 6,
+      "declared_value": 4800.00
+    },
+    "service_type": "express",
+    "carrier": "FedEx",
+    "shipping_date": "2025-05-02 15:51:06",
+    "estimated_delivery": "2025-05-04 18:00:00",
+    "actual_delivery": null,
+    "status": "in_transit",
+    "shipping_cost": 112.75,
+    "insurance_amount": 4800.00,
+    "special_instructions": "Electronics - signature required, no signature release"
+  },
+  {
+    "shipment_id": "SHP-20250719-000009",
+    "tracking_number": "1Z999AA1234567898",
+    "customer_id": "CUST-319520433",
+    "shipper_name": "Jewelry Design Studio",
+    "recipient_name": "Luxury Jewelers",
+    "origin_address": {
+      "street": "777 Diamond Way",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "888 Precious Lane",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 0.8,
+      "dimensions": "8x6x4",
+      "package_count": 1,
+      "declared_value": 25000.00
+    },
+    "service_type": "secure_express",
+    "carrier": "Brinks",
+    "shipping_date": "2025-02-01 15:51:06",
+    "estimated_delivery": "2025-02-02 10:00:00",
+    "actual_delivery": "2025-02-02 09:30:00",
+    "status": "delivered",
+    "shipping_cost": 350.00,
+    "insurance_amount": 25000.00,
+    "special_instructions": "High-value jewelry - armed escort, signature required, photo ID verification"
+  },
+  {
+    "shipment_id": "SHP-20250719-000010",
+    "tracking_number": "1Z999AA1234567899",
+    "customer_id": "CUST-382904803",
+    "shipper_name": "Sports Equipment Co",
+    "recipient_name": "Pro Sports Store",
+    "origin_address": {
+      "street": "444 Athletic Drive",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97201",
+      "country": "USA"
+    },
+    "destination_address": {
+      "street": "555 Sports Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80201",
+      "country": "USA"
+    },
+    "package_details": {
+      "weight": 35.6,
+      "dimensions": "40x32x24",
+      "package_count": 8,
+      "declared_value": 2800.00
+    },
+    "service_type": "ground",
+    "carrier": "UPS",
+    "shipping_date": "2025-01-12 15:51:06",
+    "estimated_delivery": "2025-01-17 18:00:00",
+    "actual_delivery": "2025-01-16 14:20:00",
+    "status": "delivered",
+    "shipping_cost": 67.50,
+    "insurance_amount": 2800.00,
+    "special_instructions": "Sports equipment - handle with care, no stacking"
+  }
+] 
